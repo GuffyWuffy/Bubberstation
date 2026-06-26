@@ -1,0 +1,1649 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ay" = (
+/obj/machinery/light/dim/directional/east,
+/obj/effect/mapping_helpers/broken_floor,
+/obj/effect/spawner/random/structure/crate_loot,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"aN" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/window/spawner/directional/north,
+/obj/structure/window/spawner/directional/west,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"ba" = (
+/obj/machinery/conveyor/auto{
+	dir = 6
+	},
+/obj/effect/spawner/random/entertainment/coin,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"bw" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"cQ" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 6
+	},
+/obj/structure/railing/corner/end/flip{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"cX" = (
+/obj/structure/closet,
+/obj/effect/spawner/random/maintenance/two,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"dD" = (
+/obj/effect/spawner/random/structure/closet_maintenance,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"ed" = (
+/obj/effect/spawner/random/trash/caution_sign,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"eP" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/power/apc/auto_name/directional/north,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"eY" = (
+/obj/effect/spawner/random/structure/shipping_container,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"fK" = (
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"gg" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_yw/style_random,
+/obj/structure/window/spawner/directional/east,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"gC" = (
+/obj/machinery/conveyor/auto{
+	dir = 9
+	},
+/obj/structure/railing{
+	dir = 10
+	},
+/obj/effect/spawner/random/entertainment/plushie_delux,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"gG" = (
+/obj/effect/spawner/random/trash/bucket,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"gL" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"hf" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/spawner/random/entertainment/plushie_delux,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"ho" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/conveyor/auto,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"hA" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/effect/spawner/random/trash/garbage{
+	spawn_scatter_radius = 1
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"id" = (
+/turf/closed/mineral/random/stationside/asteroid/porus,
+/area/station/asteroid)
+"jm" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 10
+	},
+/turf/closed/wall/r_wall,
+/area/station/maintenance/department/science/south)
+"kU" = (
+/obj/machinery/conveyor/auto{
+	dir = 4
+	},
+/obj/effect/spawner/random/entertainment/drugs,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"lB" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/structure/railing,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"mc" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/effect/spawner/random/structure/steam_vent,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"mD" = (
+/obj/machinery/conveyor/auto{
+	dir = 10
+	},
+/obj/structure/railing{
+	dir = 6
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"nq" = (
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"ot" = (
+/obj/machinery/conveyor/auto{
+	dir = 5
+	},
+/obj/effect/spawner/random/entertainment/plushie_delux,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"oG" = (
+/obj/effect/spawner/random/structure/grille,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"oH" = (
+/obj/effect/spawner/random/structure/furniture_parts,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"rg" = (
+/obj/machinery/conveyor/auto{
+	dir = 5
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"rA" = (
+/obj/machinery/conveyor/auto,
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"sq" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 10
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"sv" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 5
+	},
+/obj/structure/railing/corner/end/flip,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"sz" = (
+/obj/machinery/conveyor/auto{
+	dir = 4
+	},
+/obj/effect/spawner/random/entertainment/coin,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"sI" = (
+/obj/machinery/conveyor/auto{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/effect/spawner/random/entertainment/coin,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"sY" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 10
+	},
+/obj/effect/spawner/random/bananas_or_nothing,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"tb" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/machinery/conveyor/auto{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"vh" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 6
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"vO" = (
+/turf/open/misc/asteroid/airless,
+/area/station/asteroid)
+"vP" = (
+/turf/closed/wall/r_wall,
+/area/station/maintenance/department/science/south)
+"vY" = (
+/obj/machinery/conveyor/auto{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"wD" = (
+/obj/effect/spawner/random/trash/box,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"zV" = (
+/obj/structure/cable,
+/obj/machinery/conveyor/auto{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Bm" = (
+/obj/machinery/conveyor/auto{
+	dir = 10
+	},
+/obj/structure/railing{
+	dir = 6
+	},
+/obj/structure/railing{
+	dir = 6
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"CR" = (
+/obj/machinery/conveyor/auto,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Dg" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/obj/modular_map_connector,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Ej" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 5
+	},
+/obj/structure/railing/corner,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Fn" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"FF" = (
+/obj/machinery/power/port_gen/pacman/pre_loaded,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"FX" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 10
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Gs" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/window/spawner/directional/west,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"HN" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/effect/mapping_helpers/mail_sorting/science/ordnance,
+/obj/structure/disposalpipe/sorting/mail/flip{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Il" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/conveyor/auto{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Iz" = (
+/obj/effect/spawner/random/trash/graffiti,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"IU" = (
+/obj/machinery/conveyor/auto{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"JA" = (
+/obj/effect/spawner/random/structure/crate_loot,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"La" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_pp/style_random,
+/obj/structure/window/spawner/directional/east,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"LV" = (
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"ML" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/window/spawner/directional/west,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"Nf" = (
+/obj/machinery/conveyor/auto{
+	dir = 1
+	},
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Nx" = (
+/obj/effect/spawner/random/trash/garbage{
+	spawn_scatter_radius = 1
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"NW" = (
+/obj/structure/table/wood,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"OE" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"PG" = (
+/obj/structure/flora/bush/fullgrass/style_random,
+/obj/structure/flora/bush/grassy/style_random,
+/obj/structure/flora/grass/jungle/b/style_random,
+/obj/structure/flora/bush/lavendergrass/style_random,
+/obj/structure/flora/bush/leafy,
+/obj/structure/flora/bush/flowers_br/style_random,
+/obj/structure/window/spawner/directional/north,
+/obj/structure/window/spawner/directional/east,
+/turf/open/misc/grass/jungle/station,
+/area/station/maintenance/department/science/south)
+"Qe" = (
+/obj/structure/cable,
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"QD" = (
+/obj/machinery/conveyor/auto{
+	dir = 4
+	},
+/obj/effect/spawner/random/structure/closet_maintenance,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Rt" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"RJ" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/spawner/random/entertainment/drugs,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"RO" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 9
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"RZ" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 5
+	},
+/obj/structure/railing/corner/end{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Sw" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/machinery/conveyor/auto,
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/spawner/random/entertainment/plushie_delux,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Tf" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"TE" = (
+/obj/machinery/conveyor/auto{
+	dir = 10
+	},
+/obj/structure/railing{
+	dir = 6
+	},
+/obj/effect/spawner/random/structure/crate_abandoned,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Uk" = (
+/turf/template_noop,
+/area/template_noop)
+"Wp" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/spawner/random/structure/closet_maintenance,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Wy" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/spawner/random/entertainment/coin,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Yb" = (
+/obj/machinery/conveyor/auto,
+/obj/structure/railing{
+	dir = 4
+	},
+/obj/effect/spawner/random/entertainment/drugs,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"YT" = (
+/obj/machinery/conveyor/auto{
+	dir = 8
+	},
+/obj/structure/railing,
+/obj/effect/spawner/random/bananas_or_nothing,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+"Zx" = (
+/obj/machinery/conveyor/auto/inverted{
+	dir = 6
+	},
+/obj/structure/railing/corner/end,
+/turf/open/floor/plating,
+/area/station/maintenance/department/science/south)
+
+(1,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(2,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+Fn
+RZ
+RO
+vP
+id
+id
+id
+vO
+vO
+Uk
+Uk
+Uk
+"}
+(3,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Iz
+Fn
+Rt
+kU
+vP
+id
+id
+vO
+vO
+vO
+id
+Uk
+Uk
+"}
+(4,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+Fn
+Rt
+IU
+vP
+vP
+id
+id
+vO
+vO
+id
+Uk
+Uk
+"}
+(5,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+Fn
+hf
+IU
+oG
+vP
+id
+id
+id
+vO
+vO
+Uk
+Uk
+"}
+(6,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+oG
+Fn
+Rt
+IU
+JA
+vP
+id
+id
+id
+id
+vO
+vO
+Uk
+"}
+(7,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+Fn
+Rt
+IU
+dD
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(8,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+NW
+Fn
+Wy
+IU
+LV
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(9,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+oG
+Nx
+Fn
+Rt
+kU
+FF
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(10,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+vh
+gL
+Tf
+YT
+IU
+vP
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(11,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+eP
+Ej
+rA
+mD
+IU
+vP
+id
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(12,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+LV
+Iz
+vh
+Tf
+lB
+rg
+vY
+FX
+vP
+id
+id
+id
+id
+id
+vO
+vO
+vO
+"}
+(13,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+vh
+gL
+gL
+Tf
+Ej
+mD
+IU
+dD
+JA
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+"}
+(14,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+mc
+Ej
+Yb
+rA
+TE
+rg
+sY
+oG
+vP
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+"}
+(15,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+vh
+Tf
+Rt
+rg
+vY
+vY
+FX
+vP
+vP
+vP
+id
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+"}
+(16,1,1) = {"
+Uk
+wD
+gG
+ed
+LV
+Iz
+HN
+nq
+Rt
+IU
+aN
+Gs
+ML
+vP
+id
+id
+id
+id
+id
+id
+id
+vO
+vO
+Uk
+Uk
+"}
+(17,1,1) = {"
+Uk
+vh
+gL
+gL
+gL
+gL
+Tf
+hA
+Rt
+IU
+PG
+La
+gg
+vP
+id
+id
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+Uk
+"}
+(18,1,1) = {"
+Uk
+Fn
+sv
+rA
+rA
+rA
+Sw
+ho
+Bm
+ba
+CR
+CR
+RO
+vP
+id
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+Uk
+Uk
+"}
+(19,1,1) = {"
+Uk
+Dg
+Zx
+Nf
+Nf
+sI
+tb
+Il
+Nf
+Nf
+Nf
+gC
+IU
+vP
+id
+id
+id
+id
+id
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(20,1,1) = {"
+Uk
+cX
+ay
+oH
+vP
+LV
+bw
+sq
+gL
+gL
+OE
+Rt
+QD
+vP
+id
+id
+id
+id
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(21,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+vP
+vP
+id
+id
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(22,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+LV
+vP
+id
+id
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(23,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+RJ
+IU
+dD
+vP
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(24,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+LV
+LV
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(25,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Qe
+zV
+fK
+fK
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(26,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+sz
+Nx
+LV
+Uk
+Uk
+Uk
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(27,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+dD
+vP
+Uk
+Uk
+Uk
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(28,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+vP
+vP
+id
+id
+id
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(29,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Wy
+IU
+vP
+id
+id
+id
+id
+id
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+"}
+(30,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+vh
+gL
+gL
+Tf
+Rt
+IU
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+"}
+(31,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+mc
+Ej
+rA
+rA
+mD
+IU
+vP
+id
+id
+id
+id
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+"}
+(32,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+ot
+vY
+vY
+FX
+vP
+id
+id
+id
+vO
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+"}
+(33,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+LV
+LV
+vP
+vP
+id
+id
+vO
+vO
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+"}
+(34,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+LV
+eY
+vP
+id
+id
+vO
+vO
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+"}
+(35,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Wp
+IU
+LV
+LV
+vP
+id
+id
+vO
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(36,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+LV
+LV
+vP
+id
+id
+vO
+vO
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(37,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Fn
+Rt
+IU
+Nx
+vP
+vP
+id
+id
+vO
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(38,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+LV
+Fn
+Rt
+sz
+vP
+vP
+id
+id
+id
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(39,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+gL
+gL
+Tf
+cQ
+jm
+vP
+id
+id
+vO
+vO
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}
+(40,1,1) = {"
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+vP
+id
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+Uk
+"}

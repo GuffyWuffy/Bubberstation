@@ -1,0 +1,854 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/closed/mineral/random/stationside/asteroid/porus,
+/area/station/asteroid)
+"c" = (
+/obj/structure/closet/crate/trashcart/filled,
+/obj/effect/spawner/random/medical/memeorgans,
+/obj/effect/spawner/random/medical/memeorgans,
+/obj/effect/spawner/random/medical/memeorgans,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"d" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"e" = (
+/obj/effect/spawner/random/engineering/atmospherics_portable,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"f" = (
+/obj/structure/railing{
+	dir = 10
+	},
+/obj/structure/marker_beacon/cerulean,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"g" = (
+/obj/structure/railing,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"h" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"j" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"k" = (
+/obj/structure/mannequin/skeleton,
+/turf/open/floor/glass/reinforced/plasma,
+/area/station/maintenance/department/medical/morgue)
+"l" = (
+/turf/closed/wall,
+/area/station/maintenance/department/medical/morgue)
+"n" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"o" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"p" = (
+/obj/structure/rack,
+/obj/effect/spawner/random/maintenance/three,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"q" = (
+/obj/structure/closet/crate/coffin,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"r" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"s" = (
+/turf/closed/wall/r_wall,
+/area/station/maintenance/department/medical/morgue)
+"t" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"u" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/machinery/door/airlock/maintenance{
+	name = "Medbay Maintenance"
+	},
+/obj/effect/mapping_helpers/airlock/access/any/medical/maintenance,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"v" = (
+/obj/structure/railing{
+	dir = 5
+	},
+/obj/structure/marker_beacon/cerulean,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"w" = (
+/obj/structure/mannequin/plastic,
+/turf/open/floor/glass/reinforced/plasma,
+/area/station/maintenance/department/medical/morgue)
+"x" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"A" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/obj/machinery/power/apc/auto_name/directional/south,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"B" = (
+/obj/structure/disposalpipe/segment,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"C" = (
+/turf/open/misc/asteroid/airless,
+/area/station/asteroid)
+"E" = (
+/turf/template_noop,
+/area/template_noop)
+"F" = (
+/obj/structure/disposalpipe/segment,
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"H" = (
+/obj/structure/mannequin/wood,
+/turf/open/floor/glass/reinforced/plasma,
+/area/station/maintenance/department/medical/morgue)
+"I" = (
+/obj/structure/closet/emcloset/anchored,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"J" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 10
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"K" = (
+/obj/effect/spawner/random/structure/closet_empty/crate/with_loot,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"M" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/modular_map_connector,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"N" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"O" = (
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"P" = (
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"Q" = (
+/obj/structure/railing{
+	dir = 9
+	},
+/obj/structure/marker_beacon/cerulean,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"R" = (
+/obj/machinery/power/port_gen/pacman/pre_loaded,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"S" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/structure/window/reinforced/tinted/fulltile,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"T" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/obj/effect/spawner/random/structure/steam_vent,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"V" = (
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"W" = (
+/obj/structure/railing{
+	dir = 6
+	},
+/obj/structure/marker_beacon/cerulean,
+/turf/open/floor/glass/reinforced,
+/area/station/maintenance/department/medical/morgue)
+"X" = (
+/obj/structure/disposalpipe/segment{
+	dir = 9
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"Y" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/disposalpipe/segment{
+	dir = 6
+	},
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+"Z" = (
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical/morgue)
+
+(1,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+C
+C
+E
+E
+E
+E
+"}
+(2,1,1) = {"
+E
+E
+E
+C
+C
+C
+C
+C
+E
+E
+a
+C
+C
+E
+E
+E
+"}
+(3,1,1) = {"
+E
+E
+E
+a
+a
+a
+a
+a
+C
+a
+a
+a
+C
+E
+E
+E
+"}
+(4,1,1) = {"
+E
+E
+E
+E
+l
+l
+l
+l
+a
+a
+E
+E
+E
+a
+E
+E
+"}
+(5,1,1) = {"
+E
+E
+E
+E
+N
+N
+N
+N
+E
+E
+E
+E
+E
+a
+E
+E
+"}
+(6,1,1) = {"
+E
+E
+E
+E
+l
+l
+I
+N
+E
+E
+E
+E
+E
+a
+a
+E
+"}
+(7,1,1) = {"
+E
+E
+E
+N
+N
+N
+N
+N
+E
+E
+E
+E
+E
+E
+a
+a
+"}
+(8,1,1) = {"
+E
+E
+E
+N
+Q
+t
+f
+N
+E
+E
+E
+E
+E
+E
+a
+a
+"}
+(9,1,1) = {"
+E
+E
+E
+N
+j
+w
+g
+r
+E
+E
+E
+E
+E
+E
+a
+E
+"}
+(10,1,1) = {"
+E
+E
+E
+N
+j
+k
+g
+r
+E
+E
+E
+E
+E
+E
+a
+C
+"}
+(11,1,1) = {"
+E
+E
+E
+N
+j
+H
+g
+O
+E
+E
+E
+E
+E
+a
+C
+C
+"}
+(12,1,1) = {"
+E
+E
+E
+N
+v
+o
+W
+c
+E
+E
+E
+E
+E
+a
+C
+E
+"}
+(13,1,1) = {"
+E
+E
+E
+N
+K
+E
+E
+E
+E
+E
+E
+E
+E
+a
+C
+E
+"}
+(14,1,1) = {"
+E
+E
+E
+N
+p
+E
+E
+E
+E
+E
+E
+E
+E
+a
+E
+E
+"}
+(15,1,1) = {"
+E
+E
+N
+N
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(16,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(17,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(18,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(19,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(20,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(21,1,1) = {"
+E
+l
+n
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(22,1,1) = {"
+E
+R
+n
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+a
+E
+E
+"}
+(23,1,1) = {"
+E
+Y
+A
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+a
+C
+E
+"}
+(24,1,1) = {"
+E
+n
+l
+l
+l
+P
+l
+l
+s
+s
+a
+a
+a
+a
+C
+E
+"}
+(25,1,1) = {"
+E
+J
+d
+d
+x
+P
+Z
+V
+q
+s
+a
+a
+a
+C
+E
+E
+"}
+(26,1,1) = {"
+E
+E
+l
+l
+S
+u
+s
+V
+q
+s
+C
+C
+C
+E
+E
+E
+"}
+(27,1,1) = {"
+E
+E
+B
+B
+F
+X
+Z
+V
+q
+s
+C
+E
+E
+E
+E
+E
+"}
+(28,1,1) = {"
+E
+E
+l
+l
+T
+l
+l
+l
+s
+s
+E
+E
+E
+E
+E
+E
+"}
+(29,1,1) = {"
+E
+E
+e
+O
+J
+x
+K
+l
+a
+E
+E
+E
+E
+E
+E
+E
+"}
+(30,1,1) = {"
+E
+E
+l
+l
+l
+n
+l
+l
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(31,1,1) = {"
+E
+E
+Y
+d
+d
+h
+l
+a
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(32,1,1) = {"
+E
+l
+M
+l
+l
+l
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
+(33,1,1) = {"
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+E
+"}
