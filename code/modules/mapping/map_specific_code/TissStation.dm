@@ -1,6 +1,7 @@
 /obj/modular_map_root/tissstation
 	config_file = "strings/modular_maps/TissStation.toml"
 
+
 /obj/item/paper/fluff/downward_spiral
 	name = "The Downward Spiral"
 	desc = "A dark slip of paper with text hastily scrawled upon it."
@@ -48,8 +49,8 @@
 	hardness = 45
 	explosive_resistance = 0
 	smoothing_flags = SMOOTH_BITMASK
-	smoothing_groups = SMOOTH_GROUP_STONE_WALLS + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
-	canSmoothWith = SMOOTH_GROUP_STONE_WALLS
+//	smoothing_groups = SMOOTH_GROUP_STONE_WALLS + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
+//	canSmoothWith = SMOOTH_GROUP_STONE_WALLS
 	custom_materials = list(/datum/material/sandstone = SHEET_MATERIAL_AMOUNT*2)
 	rust_resistance = RUST_RESISTANCE_BASIC
 
@@ -57,8 +58,8 @@
 	icon = 'troutstation/icons/turf/walls/stone_wall_wizard.dmi'
 	icon_state = "stone_wall_wizard-0"
 	base_icon_state = "stone_wall_wizard"
-	smoothing_groups = SMOOTH_GROUP_STONE_WALLS_WIZARD + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
-	canSmoothWith = SMOOTH_GROUP_STONE_WALLS_WIZARD
+	// smoothing_groups = SMOOTH_GROUP_STONE_WALLS_WIZARD + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
+	// canSmoothWith = SMOOTH_GROUP_STONE_WALLS_WIZARD
 
 /obj/structure/sink/cauldron
 	name = "cauldron"
@@ -66,6 +67,76 @@
 	icon_state = "cauldron"
 	desc = "A mystically shitty cauldron which seems to slowly refill its contents. You don't think you'd be able to actually brew with this..."
 	dispensedreagent = /datum/reagent/luminescent_fluid
+
+/obj/effect/turf_decal/tile/white
+	name = "white tile decal"
+	color = "#d9d9d9"
+	alpha = 255
+
+TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/white)
+
+/obj/item/toy/plush/maddie
+	icon = 'troutstation/icons/obj/toys/plushes.dmi'
+	name = "maddie plushie"
+	desc = "Oh hey, that's a plushie of Maddie. You love her!"
+	icon_state = "plushie_maddie"
+	inhand_icon_state = null
+	attack_verb_continuous = list("squeaks at", "strikes", "bashes")
+	attack_verb_simple = list("squeak at", "strike", "bash")
+	squeak_override = list('troutstation/sound/items/toy_squeak/mrdSqueak.ogg' = 1)
+	gender = FEMALE
+	breedable = FALSE // do not the maddie
+
+// Tisserand: added Feb 13, 2026 (https://github.com/Cirrial/troutstation/pull/100)
+/obj/structure/plaque/static_plaque/golden/commission/tiss
+	desc = "Spinward Sector Station SS-13\n'Tisserand' Class Outpost\nCommissioned 13/02/2566\n'Orbiting Greatness'"
+
+/obj/structure/sign/map/tiss
+	icon = 'troutstation/icons/obj/signs.dmi'
+	icon_state = "map-tiss"
+	desc = "A near floor to ceiling map of the station's asteroids. In the center is Service (in green) and the Bridge (in deep blue). On the right is arrivals (in blue and black), and on the left is departures (in red and black). <br>\
+	Clockwise from the top left is the Supply asteroid (in brown), the Security asteroid (in red), the Science asteroids (in purple), the Engineering asteroids (in yellow), and the Medical asteroids (in light blue)."
+
+/obj/structure/sign/directions/tube
+	icon = 'troutstation/icons/obj/signs.dmi'
+	name = "tube room sign"
+	desc = "A direction sign, pointing out which way the tube room is."
+	icon_state = "direction_tube"
+
+MAPPING_DIRECTIONAL_HELPERS(/obj/structure/sign/directions/tube, 32)
+
+/obj/structure/fluff/orb_red
+	name = "red orb"
+	desc = "An immense red sphere, seemingly not of this world. It's almost transparent, and it's internals seem to... throb?"
+	icon = 'troutstation/icons/effects/64x64.dmi'
+	icon_state = "orb_red"
+	pixel_x = -16
+	maptext_height = 64
+	maptext_width = 64
+	density = TRUE
+	deconstructible = FALSE
+	layer = EDGED_TURF_LAYER
+	light_power = 2
+	light_range = 2
+	light_color = COLOR_RED
+
+/obj/structure/fluff/orb_blue
+	name = "blue orb"
+	desc = "An immense blue sphere, seemingly not of this world. It's almost transparent, and it's internals seem to... throb?"
+	icon = 'troutstation/icons/effects/64x64.dmi'
+	icon_state = "orb_blue"
+	pixel_x = -16
+	maptext_height = 64
+	maptext_width = 64
+	density = TRUE
+	deconstructible = FALSE
+	layer = EDGED_TURF_LAYER
+	light_power = 2
+	light_range = 2
+	light_color = COLOR_BLUE
+
+
+
 
 /// Areas
 
@@ -190,4 +261,41 @@
 	ambientsounds = list(
 		'troutstation/sound/ambience/rags.ogg',
 		)
+
+/// Tram
+
+/obj/effect/landmark/transport/transport_id/tiss/line_1
+	specific_transport_id = TISS_LINE_1
+
+/obj/effect/landmark/transport/nav_beacon/tram/nav/tiss/main
+	name = TISS_LINE_1
+	specific_transport_id = TRAM_NAV_BEACONS
+	dir = SOUTH
+
+/obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/north
+	name = "Science"
+	specific_transport_id = TISS_LINE_1
+	platform_code = TISS_NORTH
+	tgui_icons = list("Science" = "flask")
+
+/obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/south
+	name = "AI Satellite"
+	specific_transport_id = TISS_LINE_1
+	platform_code = TISS_SOUTH
+	tgui_icons = list("AI" = "cogs")
+
+/obj/machinery/transport/tram_controller/tiss
+	configured_transport_id = TISS_LINE_1
+
+/obj/machinery/transport/tram_controller/tiss/find_controller()
+	for(var/datum/transport_controller/linear/tram/tram as anything in SStransport.transports_by_type[TRANSPORT_TYPE_TRAM])
+		if(tram.specific_transport_id == configured_transport_id)
+			controller_datum = tram
+			break
+
+	if(!controller_datum)
+		return
+
+	controller_datum.notify_controller(src)
+	RegisterSignal(SStransport, COMSIG_TRANSPORT_UPDATED, PROC_REF(sync_controller))
 

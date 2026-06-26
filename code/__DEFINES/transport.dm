@@ -20,6 +20,7 @@
 #define BIRDSHOT_LINE_1 "bird_1"
 #define BIRDSHOT_LINE_2 "bird_2"
 #define HERETIC_LINE_1 "heretic_1"
+#define TISS_LINE_1 "tiss_1" // Bubber edit
 
 // Destinations/platforms
 #define TRAMSTATION_WEST 1
@@ -39,6 +40,11 @@
 
 #define BIRDSHOT_MAINTENANCE_LEFT 1
 #define BRIDSHOT_MAINTENANCE_RIGHT 2
+
+/// Bubber edit start
+#define TISS_NORTH 1
+#define TISS_SOUTH 2
+/// Bubber edit end
 
 // Tram Navigation aids
 #define TRAM_NAV_BEACONS "tram_nav"
