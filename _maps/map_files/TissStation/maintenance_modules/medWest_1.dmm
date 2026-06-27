@@ -181,10 +181,10 @@
 /area/station/maintenance/department/medical)
 "T" = (
 /obj/effect/spawner/random/structure/table_fancy,
-/obj/item/food/grown/gaywatermelon,
+/obj/item/food/grown/watermelon,
 /obj/machinery/light/floor,
-/obj/item/food/grown/gaywatermelon,
-/obj/item/food/grown/gaywatermelon,
+/obj/item/food/grown/watermelon,
+/obj/item/food/grown/watermelon,
 /obj/item/seeds/watermelon,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)

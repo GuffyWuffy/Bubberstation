@@ -880,11 +880,11 @@
 /area/station/maintenance/starboard/central)
 "Nf" = (
 /obj/structure/rack,
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = 7;
 	pixel_y = 6
 	},
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = -4;
 	pixel_y = -6
 	},
@@ -960,11 +960,11 @@
 /area/station/maintenance/starboard/central)
 "Pr" = (
 /obj/structure/rack,
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = 7;
 	pixel_y = 6
 	},
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = -4;
 	pixel_y = -6
 	},
@@ -1055,17 +1055,17 @@
 /area/station/maintenance/starboard/central)
 "Wo" = (
 /obj/structure/table/glass,
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_y = 7
 	},
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = 7;
 	pixel_y = 6
 	},
-/obj/item/food/grown/bowling_ball{
+/obj/item/bowling_ball{
 	pixel_x = -8
 	},
-/obj/item/food/grown/bowling_ball,
+/obj/item/bowling_ball,
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/starboard/central)
 "WI" = (
@@ -1125,20 +1125,6 @@
 /area/station/commons/fitness/recreation/bowling)
 "Yc" = (
 /obj/structure/table/glass,
-/obj/item/seeds/coconut{
-	pixel_x = -5
-	},
-/obj/item/seeds/bowling_ball{
-	pixel_x = 7;
-	pixel_y = 4
-	},
-/obj/item/seeds/bowling_ball{
-	pixel_x = 2
-	},
-/obj/item/seeds/bowling_ball{
-	pixel_x = -6;
-	pixel_y = 8
-	},
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/starboard/central)
 "YM" = (

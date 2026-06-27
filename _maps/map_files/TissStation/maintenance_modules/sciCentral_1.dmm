@@ -396,7 +396,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "UN" = (
-/mob/living/basic/mouse/rat/maddie,
+/mob/living/basic/pet/chinchilla/black,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/science/central)
 "UW" = (

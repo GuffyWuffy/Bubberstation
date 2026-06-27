@@ -3,7 +3,7 @@
 /mob/living/basic/skitterer : /mob/living/basic/kiwi{@OLD}
 /mob/living/basic/gay_skitterer : /mob/living/basic/banana_spider{@OLD}
 /mob/living/basic/pet/dog/dolby : /mob/living/basic/pet/chinchilla/white{@OLD}
-/obj/item/food/gaywatermelon : /obj/item/food/watermelon
+/obj/item/food/grown/gaywatermelon : /obj/item/food/grown/watermelon{@OLD}
 /obj/item/food/gaywatermelonslice : /obj/item/food/watermelonslice
 /obj/item/seeds/watermelon/gay : /obj/item/seeds/watermelon
 /obj/effect/spawner/random/entertainment/plushie/vending : /obj/effect/spawner/random/entertainment/plushie_delux{@OLD}
@@ -21,3 +21,5 @@
 /turf/closed/wall/mineral/stone/wizard : /turf/closed/wall/mineral/stone
 /mob/living/basic/bot/mulebot : /mob/living/simple_animal/bot/mulebot{@OLD}
 /area/station/engineering/supermatter/engine : /area/station/engineering/supermatter
+/obj/item/food/grown/bowling_ball : /obj/item/bowling_ball{@OLD}
+/mob/living/basic/mouse/rat/maddie : /mob/living/basic/pet/chinchilla/black{@OLD}

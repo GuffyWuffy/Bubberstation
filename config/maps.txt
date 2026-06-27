@@ -92,6 +92,11 @@ map northstar
 	webmap_url https://webmap.affectedarc07.co.uk/maps/tgstation/northstar/
 endmap
 
+map tissstation
+	votable
+	webmap_url https://theguff.in/Tisserand.png
+endmap
+
 # Debug-only maps.
 
 map gateway_test

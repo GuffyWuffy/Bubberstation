@@ -155,7 +155,9 @@ DEFINE_BITFIELD(smoothing_junction, list(
 
 #define SMOOTH_GROUP_EXPLORATION_FLOOR S_TURF(67) //turf/open/floor/iron/shuttle/exploration/smooth
 
-#define MAX_S_TURF 67 //Always match this value with the one above it.
+#define SMOOTH_GROUP_CARPET_PICNIC S_TURF(68) ///turf/open/floor/carpet/picnic
+
+#define MAX_S_TURF 68 //Always match this value with the one above it.
 //BUBBER EDIT END
 
 #define S_OBJ(num) ("-" + #num + ",")

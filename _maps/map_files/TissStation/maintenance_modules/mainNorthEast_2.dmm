@@ -44,16 +44,12 @@
 /area/station/maintenance/starboard/fore)
 "dF" = (
 /mob/living/basic/dolphin,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "ec" = (
 /obj/machinery/light_switch/directional/north,
-/obj/structure/sink/cauldron,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/obj/machinery/cauldron,
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "en" = (
 /obj/effect/mapping_helpers/burnt_floor,
@@ -105,14 +101,10 @@
 /area/station/maintenance/starboard/fore)
 "iJ" = (
 /obj/structure/bookcase/random/reference/wizard,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "jB" = (
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "lu" = (
 /obj/effect/spawner/random/trash/grime,
@@ -274,7 +266,7 @@
 /obj/structure/flora/grass/jungle/a/style_random,
 /obj/structure/flora/grass/jungle/b/style_random,
 /obj/structure/flora/grass/jungle/b/style_random,
-/turf/open/floor/grass,
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "CW" = (
 /obj/structure/disposalpipe/segment,
@@ -333,9 +325,7 @@
 	entersparks = 1;
 	exitsparks = 1
 	},
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "IM" = (
 /obj/structure/disposalpipe/segment,
@@ -392,10 +382,7 @@
 	pixel_y = 6
 	},
 /obj/item/teleportation_scroll/apprentice,
-/obj/item/teleportation_scroll/apprentice,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "OH" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -414,9 +401,7 @@
 	pixel_x = -7;
 	pixel_y = 3
 	},
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "Rt" = (
 /obj/machinery/door/airlock/external,
@@ -464,9 +449,7 @@
 	bulb_power = 5
 	},
 /obj/effect/landmark/generic_maintenance_landmark,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "XC" = (
 /obj/machinery/light/small/directional/south,
@@ -506,9 +489,7 @@
 /obj/effect/spawner/random/clothing/funny_hats,
 /obj/item/scrying,
 /obj/effect/turf_decal/trimline/tram,
-/turf/open/floor/white{
-	color = "#cacaca"
-	},
+/turf/open/floor/stone,
 /area/station/maintenance/starboard/fore)
 "ZZ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
