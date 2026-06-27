@@ -92,7 +92,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "hM" = (
-/obj/item/toy/plush/cyd,
+/obj/effect/spawner/random/entertainment/plushie_delux,
 /obj/machinery/light/floor/broken,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
@@ -272,11 +272,8 @@
 /turf/open/floor/plating/elevatorshaft,
 /area/station/maintenance/starboard/fore)
 "CS" = (
-/obj/effect/spawner/random/entertainment/plushie/vending,
-/obj/effect/spawner/random/entertainment/plushie/vending{
-	pixel_x = 16;
-	pixel_y = 8
-	},
+/obj/effect/spawner/random/entertainment/plushie_delux,
+/obj/effect/spawner/random/entertainment/plushie_delux,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "Dk" = (
@@ -374,7 +371,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "Nq" = (
-/obj/effect/spawner/random/entertainment/plushie/vending,
+/obj/effect/spawner/random/entertainment/plushie_delux,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "OH" = (

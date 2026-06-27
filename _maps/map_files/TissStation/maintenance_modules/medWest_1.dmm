@@ -27,8 +27,8 @@
 "h" = (
 /obj/effect/spawner/random/structure/table_fancy,
 /obj/machinery/light/floor,
-/obj/item/clothing/suit/armor/durability/gaywatermelon,
-/obj/item/clothing/head/helmet/durability/gaywatermelon,
+/obj/item/clothing/suit/armor/durability/watermelon,
+/obj/item/clothing/head/helmet/durability/watermelon,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "i" = (
@@ -83,7 +83,7 @@
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "v" = (
-/mob/living/basic/bot/mulebot{
+/mob/living/simple_animal/bot/mulebot{
 	name = "\improper The Horrorscope";
 	desc = "Scary guy..."
 	},
@@ -116,15 +116,13 @@
 "C" = (
 /obj/effect/spawner/random/structure/table_fancy,
 /obj/item/plate/large,
-/obj/item/food/fairy_bread{
-	pixel_y = 5
-	},
-/obj/item/food/popsicle/golden_gaytime,
+/obj/item/food/butteredtoast,
+/obj/item/food/popsicle/sea_salt,
 /obj/machinery/light/floor,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "D" = (
-/obj/structure/reagent_dispensers/water_cooler/gay,
+/obj/structure/reagent_dispensers/water_cooler/punch_cooler,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "F" = (
@@ -187,11 +185,11 @@
 /obj/machinery/light/floor,
 /obj/item/food/grown/gaywatermelon,
 /obj/item/food/grown/gaywatermelon,
-/obj/item/seeds/watermelon/gay,
+/obj/item/seeds/watermelon,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "U" = (
-/mob/living/basic/gay_skitterer,
+/mob/living/basic/banana_spider,
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "V" = (

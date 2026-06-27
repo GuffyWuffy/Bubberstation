@@ -39,41 +39,12 @@
 		/obj/item/food/burger/rootguffin = 1,
 	)
 
-/turf/closed/wall/mineral/stone
-	name = "stone wall"
-	desc = "A wall with stone plating. Cold and rough. The kind of thing kingdoms are made of."
-	icon = 'troutstation/icons/turf/walls/stone_wall.dmi'
-	icon_state = "stone_wall-0"
-	base_icon_state = "stone_wall"
-	sheet_type = /obj/item/stack/sheet/mineral/sandstone
-	hardness = 45
-	explosive_resistance = 0
-	smoothing_flags = SMOOTH_BITMASK
-//	smoothing_groups = SMOOTH_GROUP_STONE_WALLS + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
-//	canSmoothWith = SMOOTH_GROUP_STONE_WALLS
-	custom_materials = list(/datum/material/sandstone = SHEET_MATERIAL_AMOUNT*2)
-	rust_resistance = RUST_RESISTANCE_BASIC
-
-/turf/closed/wall/mineral/stone/wizard
-	icon = 'troutstation/icons/turf/walls/stone_wall_wizard.dmi'
-	icon_state = "stone_wall_wizard-0"
-	base_icon_state = "stone_wall_wizard"
-	// smoothing_groups = SMOOTH_GROUP_STONE_WALLS_WIZARD + SMOOTH_GROUP_WALLS + SMOOTH_GROUP_CLOSED_TURFS
-	// canSmoothWith = SMOOTH_GROUP_STONE_WALLS_WIZARD
-
 /obj/structure/sink/cauldron
 	name = "cauldron"
 	icon = 'troutstation/icons/obj/watercloset.dmi'
 	icon_state = "cauldron"
 	desc = "A mystically shitty cauldron which seems to slowly refill its contents. You don't think you'd be able to actually brew with this..."
 	dispensedreagent = /datum/reagent/luminescent_fluid
-
-/obj/effect/turf_decal/tile/white
-	name = "white tile decal"
-	color = "#d9d9d9"
-	alpha = 255
-
-TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/white)
 
 /obj/item/toy/plush/maddie
 	icon = 'troutstation/icons/obj/toys/plushes.dmi'
@@ -85,7 +56,6 @@ TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/white)
 	attack_verb_simple = list("squeak at", "strike", "bash")
 	squeak_override = list('troutstation/sound/items/toy_squeak/mrdSqueak.ogg' = 1)
 	gender = FEMALE
-	breedable = FALSE // do not the maddie
 
 // Tisserand: added Feb 13, 2026 (https://github.com/Cirrial/troutstation/pull/100)
 /obj/structure/plaque/static_plaque/golden/commission/tiss

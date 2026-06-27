@@ -144,7 +144,7 @@
 /area/shuttle/escape)
 "oc" = (
 /obj/structure/railing/corner,
-/mob/living/basic/skitterer,
+/mob/living/basic/kiwi,
 /turf/open/floor/mineral/titanium,
 /area/shuttle/escape)
 "oX" = (
@@ -260,7 +260,7 @@
 /turf/open/floor/mineral/titanium/yellow,
 /area/shuttle/escape)
 "wB" = (
-/mob/living/basic/skitterer,
+/mob/living/basic/kiwi,
 /turf/open/floor/mineral/titanium,
 /area/shuttle/escape)
 "wS" = (

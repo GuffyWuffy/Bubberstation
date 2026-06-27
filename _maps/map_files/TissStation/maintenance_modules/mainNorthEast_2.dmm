@@ -43,7 +43,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "dF" = (
-/mob/living/basic/bunyip,
+/mob/living/basic/dolphin,
 /turf/open/floor/white{
 	color = "#cacaca"
 	},
@@ -194,7 +194,7 @@
 /turf/closed/wall/r_wall,
 /area/station/asteroid)
 "uy" = (
-/turf/closed/wall/mineral/stone/wizard,
+/turf/closed/wall/mineral/stone,
 /area/station/maintenance/starboard/fore)
 "wu" = (
 /obj/effect/spawner/random/maintenance/no_decals/three,

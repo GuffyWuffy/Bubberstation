@@ -352,7 +352,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "CX" = (
-/obj/structure/reagent_dispensers/water_cooler/gay,
+/obj/structure/reagent_dispensers/water_cooler/punch_cooler,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "Da" = (

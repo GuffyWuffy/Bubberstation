@@ -174,6 +174,15 @@ TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/holiday/rainbow)
 
 TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/holiday/random)
 
+// Bubber edit start
+/obj/effect/turf_decal/tile/white
+	name = "white tile decal"
+	color = "#d9d9d9"
+	alpha = 255
+
+TILE_DECAL_SUBTYPE_HELPER(/obj/effect/turf_decal/tile/white)
+// Bubber edit end
+
 #undef TILE_DECAL_SUBTYPE_HELPER
 
 /// Trimlines

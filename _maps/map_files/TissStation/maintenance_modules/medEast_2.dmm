@@ -33,7 +33,7 @@
 	pixel_x = -11;
 	pixel_y = 2
 	},
-/obj/item/food/fairy_bread,
+/obj/item/food/butteredtoast,
 /turf/open/misc/asteroid,
 /area/station/asteroid)
 "j" = (

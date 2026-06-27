@@ -999,7 +999,7 @@
 /obj/structure/table/wood,
 /obj/effect/turf_decal/tile/dark/diagonal_edge,
 /obj/effect/turf_decal/tile/dark_green/diagonal_centre,
-/obj/item/toy/plush/rufran{
+/obj/effect/spawner/random/entertainment/plushie_delux{
 	pixel_y = 10
 	},
 /turf/open/floor/iron/diagonal,
