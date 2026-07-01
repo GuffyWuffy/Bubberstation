@@ -94,7 +94,7 @@ endmap
 
 map tissstation
 	votable
-	webmap_url https://theguff.in/Tisserand.png
+#outdated 	webmap_url https://theguff.in/Tisserand.png
 endmap
 
 # Debug-only maps.
