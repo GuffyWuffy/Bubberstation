@@ -6,8 +6,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "b" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "d" = (
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
@@ -190,8 +190,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "Z" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 
 (1,1,1) = {"
 W

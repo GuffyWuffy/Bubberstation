@@ -56,8 +56,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security/brig)
 "k" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "l" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
@@ -74,8 +74,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security/brig)
 "o" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "p" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8

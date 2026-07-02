@@ -1,7 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "b" = (
 /obj/structure/transit_tube/crossing/horizontal,
 /obj/structure/disposalpipe/segment,
@@ -108,8 +108,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "x" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "z" = (
 /obj/structure/disposalpipe/segment{
 	dir = 6
@@ -197,8 +197,8 @@
 /turf/template_noop,
 /area/template_noop)
 "O" = (
-/turf/closed/wall/rock/porous,
-/area/station/asteroid)
+/turf/closed/wall/ice,
+/area/icemoon/surface/outdoors/less_spawns)
 "P" = (
 /obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/girder,

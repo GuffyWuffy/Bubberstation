@@ -55,8 +55,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "ez" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "eJ" = (
 /turf/open/misc/beach/sand,
 /area/station/maintenance/department/engine)
@@ -177,8 +177,8 @@
 /turf/closed/wall,
 /area/station/maintenance/department/engine)
 "ss" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "sI" = (
 /obj/effect/spawner/random/maintenance,
 /obj/structure/closet,
@@ -249,7 +249,7 @@
 /turf/open/floor/wood,
 /area/station/maintenance/department/engine)
 "zW" = (
-/turf/closed/wall/rock/porous,
+/turf/closed/wall/ice,
 /area/station/maintenance/department/engine)
 "Ag" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/visible,
@@ -262,7 +262,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "Ak" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
+/turf/closed/mineral/random/snow,
 /area/station/maintenance/department/engine)
 "Bz" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{

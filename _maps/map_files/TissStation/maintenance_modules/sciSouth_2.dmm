@@ -129,8 +129,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "id" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "jm" = (
 /obj/machinery/conveyor/auto/inverted{
 	dir = 10
@@ -267,8 +267,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "vO" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "vP" = (
 /turf/closed/wall/r_wall,
 /area/station/maintenance/department/science/south)

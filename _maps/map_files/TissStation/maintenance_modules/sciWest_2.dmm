@@ -703,9 +703,8 @@
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
 "LH" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "LJ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/generic_maintenance_landmark,
@@ -782,8 +781,8 @@
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
 "RA" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "RR" = (
 /obj/structure/transit_tube/crossing/horizontal,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -820,8 +819,8 @@
 /turf/open/floor/circuit/green/anim,
 /area/station/science/research/abandoned)
 "VI" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "VN" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 4

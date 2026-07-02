@@ -138,8 +138,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "ub" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "uu" = (
 /turf/template_noop,
 /area/template_noop)

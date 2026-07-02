@@ -245,8 +245,8 @@
 /area/station/maintenance/department/science/south)
 "Am" = (
 /obj/item/clothing/suit/space/freedom,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Bb" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -337,8 +337,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "Mr" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Ms" = (
 /turf/closed/wall/r_wall,
 /area/station/maintenance/department/science/south)
@@ -356,8 +356,8 @@
 /turf/open/floor/plastic,
 /area/station/maintenance/department/science/south)
 "ML" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "NX" = (
 /obj/structure/cable,
 /turf/open/floor/carpet/royalblack,

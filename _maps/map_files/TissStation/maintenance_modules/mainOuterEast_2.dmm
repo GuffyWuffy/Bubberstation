@@ -93,7 +93,7 @@
 /area/station/maintenance/starboard/central)
 "ci" = (
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "ck" = (
 /obj/machinery/light/floor,
 /obj/structure/platform/rusty{
@@ -219,9 +219,8 @@
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
 "it" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "iy" = (
 /obj/structure/fake_stairs/wood/directional/north,
 /obj/structure/railing{
@@ -443,7 +442,7 @@
 "qE" = (
 /obj/structure/bonfire/dense/prelit,
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "qT" = (
 /obj/structure/reagent_dispensers/watertank,
 /turf/open/floor/plating,
@@ -473,7 +472,7 @@
 	pixel_x = 18
 	},
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "sm" = (
 /obj/structure/transit_tube/diagonal/crossing/topleft,
 /obj/effect/decal/cleanable/dirt,
@@ -899,8 +898,8 @@
 	},
 /area/station/maintenance/starboard/central)
 "Kc" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Kw" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
@@ -953,16 +952,15 @@
 /area/station/maintenance/starboard/central)
 "NN" = (
 /obj/structure/transit_tube/crossing/horizontal,
-/turf/open/space/basic,
-/area/space/nearstation)
+/area/icemoon/surface/outdoors/nospawn)
 "Of" = (
 /obj/structure/disposalpipe/segment,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
 /area/station/maintenance/starboard/central)
 "Oy" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "OA" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#6a6a6a"

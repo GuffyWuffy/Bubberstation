@@ -286,8 +286,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/central)
 "xP" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "xT" = (
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,

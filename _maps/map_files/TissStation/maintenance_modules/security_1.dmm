@@ -23,8 +23,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "bW" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "cV" = (
 /turf/closed/wall,
 /area/station/maintenance/department/security)
@@ -55,9 +55,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "gt" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "hL" = (
 /obj/effect/spawner/random/engineering/atmospherics_portable,
 /turf/open/floor/plating,
@@ -99,8 +98,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "oP" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "oV" = (
 /obj/machinery/power/port_gen/pacman/pre_loaded,
 /turf/open/floor/plating,
@@ -287,8 +286,8 @@
 /area/station/maintenance/department/security)
 "OB" = (
 /obj/effect/decal/cleanable/glass,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Qy" = (
 /obj/effect/decal/cleanable/blood/oil,
 /obj/effect/landmark/generic_maintenance_landmark,

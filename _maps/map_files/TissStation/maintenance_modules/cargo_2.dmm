@@ -24,10 +24,9 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "aX" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/transit_tube/crossing,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "aZ" = (
 /turf/closed/wall/mineral/silver,
 /area/station/maintenance/department/cargo)
@@ -129,9 +128,8 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "fO" = (
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "fT" = (
 /obj/effect/spawner/random/structure/closet_empty,
 /obj/effect/spawner/random/maintenance/no_decals/seven,
@@ -248,8 +246,8 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "kN" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "ld" = (
 /obj/item/flashlight/flare/torch/everburning{
 	pixel_x = -15;
@@ -360,12 +358,11 @@
 /turf/open/floor/carpet/purple,
 /area/station/maintenance/department/cargo)
 "oS" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/transit_tube/curved{
 	dir = 1
 	},
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "oU" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -561,8 +558,8 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "yB" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "yC" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
@@ -673,8 +670,8 @@
 /area/station/maintenance/department/cargo)
 "EI" = (
 /obj/item/melee/moonlight_greatsword,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "FL" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -774,7 +771,7 @@
 "JB" = (
 /obj/structure/window/reinforced/tinted/fulltile,
 /obj/structure/transit_tube,
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/maintenance/department/cargo)
 "JX" = (
 /obj/structure/statue/dragonman,

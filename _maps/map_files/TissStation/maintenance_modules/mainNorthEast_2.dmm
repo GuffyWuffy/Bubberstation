@@ -141,9 +141,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "pI" = (
-/obj/structure/lattice,
-/turf/open/space/basic,
-/area/space/nearstation)
+/turf/open/floor/plating/snowed/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "pM" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
@@ -184,7 +183,7 @@
 /area/template_noop)
 "ur" = (
 /turf/closed/wall/r_wall,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "uy" = (
 /turf/closed/wall/mineral/stone,
 /area/station/maintenance/starboard/fore)
@@ -195,8 +194,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "wJ" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "xl" = (
 /obj/effect/spawner/random/maintenance,
 /obj/structure/closet,
@@ -234,8 +233,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "Bd" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Cf" = (
 /obj/effect/turf_decal{
 	icon = 'icons/obj/antags/cult/rune.dmi';
@@ -434,9 +433,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "UB" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "VP" = (
 /obj/effect/spawner/random/maintenance/no_decals,
 /obj/structure/closet,

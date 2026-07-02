@@ -1,7 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "ag" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "aD" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -90,9 +90,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "qq" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/cable,
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/solars/aux/starboard)
 "qM" = (
 /obj/machinery/power/smes,
@@ -107,7 +106,7 @@
 	dir = 1
 	},
 /obj/structure/cable,
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/solars/aux/starboard)
 "uN" = (
 /obj/item/melee/baseball_bat/british,
@@ -179,9 +178,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "AL" = (
-/obj/structure/lattice/catwalk,
 /obj/structure/cable,
-/turf/open/space/basic,
+/turf/open/floor/plating/snowed/icemoon,
 /area/station/solars/aux/starboard)
 "Bx" = (
 /obj/effect/spawner/random/decoration/glowstick/on,
@@ -274,8 +272,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "HU" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/solars/aux/starboard)
 "KD" = (
 /obj/structure/girder,
@@ -350,8 +347,7 @@
 /turf/closed/wall/r_wall,
 /area/station/solars/aux/starboard)
 "Pe" = (
-/obj/structure/lattice/catwalk,
-/turf/open/space/basic,
+/turf/open/floor/plating/snowed/icemoon,
 /area/station/solars/aux/starboard)
 "Qu" = (
 /turf/closed/wall,
@@ -370,10 +366,6 @@
 	dir = 1
 	},
 /turf/open/floor/plating,
-/area/station/solars/aux/starboard)
-"VH" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/closed/wall/r_wall,
 /area/station/solars/aux/starboard)
 "VY" = (
 /obj/structure/cable,
@@ -398,21 +390,20 @@
 /turf/open/floor/plating,
 /area/station/solars/aux/starboard)
 "WJ" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/cable,
 /obj/machinery/power/solar{
 	name = "Port Solar Array";
 	id = "portsolar"
 	},
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/solars/aux/starboard)
 "WL" = (
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "Ya" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "YB" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -1364,7 +1355,7 @@ SA
 ag
 Ya
 zK
-VH
+Oq
 CR
 zK
 zK
@@ -1390,7 +1381,7 @@ ag
 Ya
 Ya
 zK
-VH
+Oq
 CR
 Cg
 Mx

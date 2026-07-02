@@ -383,8 +383,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "FE" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Gh" = (
 /obj/effect/spawner/random/trash/garbage,
 /turf/open/floor/plating,
@@ -583,8 +583,8 @@
 /turf/open/floor/iron,
 /area/station/maintenance/department/security)
 "Xc" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "XH" = (
 /obj/structure/window/spawner/directional/west{
 	pixel_x = -3
@@ -595,9 +595,8 @@
 /turf/open/floor/iron/grimy,
 /area/station/maintenance/department/security)
 "XL" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "YX" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,

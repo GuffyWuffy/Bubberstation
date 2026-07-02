@@ -114,8 +114,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "v" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "w" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -165,8 +165,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "O" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "P" = (
 /obj/structure/tank_holder/extinguisher,
 /turf/open/floor/plating,

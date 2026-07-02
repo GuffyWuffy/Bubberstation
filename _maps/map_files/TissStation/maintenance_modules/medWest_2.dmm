@@ -106,8 +106,8 @@
 /turf/closed/wall,
 /area/station/maintenance/department/medical)
 "jF" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "ki" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/chair/stool/directional/north,
@@ -313,8 +313,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "Hc" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "HS" = (
 /obj/structure/chair/stool/directional/north,
 /turf/open/floor/iron/cafeteria,

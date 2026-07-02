@@ -31,8 +31,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "fr" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "gb" = (
 /obj/structure/closet/crate/necropolis{
 	desc = "Presumably placed here by top men.";
@@ -111,8 +111,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "oB" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "qz" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,

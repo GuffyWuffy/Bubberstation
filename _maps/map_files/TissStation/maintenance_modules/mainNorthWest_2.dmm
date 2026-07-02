@@ -73,8 +73,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "lr" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "lS" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -127,8 +127,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "rD" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "rM" = (
 /obj/structure/closet/emcloset,
 /turf/open/floor/mineral/gold,
@@ -294,8 +294,8 @@
 /obj/docking_port/stationary/escape_pod{
 	dir = 8
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Od" = (
 /obj/structure/disposalpipe/segment{
 	dir = 5
@@ -353,8 +353,8 @@
 	dir = 8;
 	shuttle_id = "pod_lavaland"
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Xo" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,

@@ -210,7 +210,7 @@
 /area/station/maintenance/starboard/fore)
 "ur" = (
 /turf/closed/wall/r_wall,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "uy" = (
 /obj/machinery/conveyor/auto{
 	dir = 9
@@ -233,8 +233,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "wJ" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "xo" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/mapping_helpers/burnt_floor,
@@ -262,8 +262,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "Bd" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Cf" = (
 /obj/machinery/conveyor/auto,
 /obj/structure/window/reinforced/spawner/directional/east{
@@ -438,9 +438,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "UB" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Xz" = (
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,

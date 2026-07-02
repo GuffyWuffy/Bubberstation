@@ -1,17 +1,16 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "b" = (
 /obj/structure/flora/rock/style_random,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "c" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/disposalpipe/segment,
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "d" = (
@@ -35,7 +34,7 @@
 	},
 /obj/item/food/butteredtoast,
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "j" = (
 /obj/structure/chair/sofa/corp/right{
 	dir = 8
@@ -44,7 +43,7 @@
 	name = "Gay Statler"
 	},
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "l" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -52,16 +51,14 @@
 /obj/structure/disposalpipe/segment{
 	dir = 9
 	},
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "m" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "n" = (
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "o" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -69,7 +66,6 @@
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "q" = (
@@ -77,8 +73,8 @@
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
 "r" = (
-/turf/closed/wall/rock/porous,
-/area/station/asteroid)
+/turf/closed/wall/ice,
+/area/icemoon/surface/outdoors/less_spawns)
 "t" = (
 /obj/structure/chair/sofa/corp/left{
 	dir = 8
@@ -87,7 +83,7 @@
 	name = "Straight Waldorf"
 	},
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "v" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -95,7 +91,6 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "w" = (
@@ -105,14 +100,13 @@
 /obj/structure/disposalpipe/segment{
 	dir = 10
 	},
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "x" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "A" = (
-/turf/closed/wall/rock/porous,
+/turf/closed/wall/ice,
 /area/station/maintenance/department/medical)
 "B" = (
 /obj/structure/transit_tube/curved{
@@ -121,7 +115,7 @@
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
 "D" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
+/turf/closed/mineral/random/snow,
 /area/station/maintenance/department/medical)
 "F" = (
 /obj/structure/transit_tube/crossing/horizontal,
@@ -132,7 +126,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -145,42 +138,12 @@
 	},
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
-"I" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/turf_decal/sand/plating,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "J" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/disposalpipe/segment{
 	dir = 5
-	},
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"L" = (
-/obj/structure/transit_tube/crossing/horizontal,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment,
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"M" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/turf_decal/sand/plating,
-/obj/structure/disposalpipe/segment{
-	dir = 4
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -190,14 +153,6 @@
 "O" = (
 /obj/structure/flora/rock/pile,
 /turf/open/misc/asteroid,
-/area/station/maintenance/department/medical)
-"P" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/turf_decal/sand/plating,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "T" = (
 /turf/open/misc/asteroid,
@@ -209,30 +164,18 @@
 /obj/structure/disposalpipe/segment{
 	dir = 6
 	},
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "V" = (
-/obj/structure/lattice,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/icemoon,
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "W" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/disposalpipe/junction{
 	dir = 8
-	},
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"X" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/turf_decal/sand/plating,
-/obj/structure/disposalpipe/segment{
-	dir = 6
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -242,7 +185,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/disposalpipe/segment,
 /obj/modular_map_connector,
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "Z" = (
@@ -259,7 +201,7 @@
 /obj/item/food/breadslice/plain,
 /obj/item/food/butter,
 /turf/open/misc/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 
 (1,1,1) = {"
 N
@@ -522,10 +464,10 @@ N
 N
 U
 c
-L
+G
 c
 c
-L
+G
 J
 N
 N
@@ -674,7 +616,7 @@ N
 N
 x
 x
-X
+U
 l
 x
 a
@@ -705,7 +647,7 @@ N
 x
 x
 e
-M
+v
 T
 x
 a
@@ -736,7 +678,7 @@ x
 x
 T
 T
-M
+v
 H
 r
 a
@@ -764,10 +706,10 @@ N
 N
 x
 x
-X
-P
-P
-I
+U
+c
+c
+l
 x
 x
 a
@@ -795,7 +737,7 @@ N
 N
 N
 O
-M
+v
 T
 T
 x
@@ -886,7 +828,7 @@ N
 N
 x
 x
-X
+U
 G
 l
 r

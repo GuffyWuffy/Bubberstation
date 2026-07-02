@@ -81,8 +81,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "t" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "u" = (
 /obj/structure/rack,
 /obj/item/book/manual/wiki/engineering_construction,
@@ -116,8 +116,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "C" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "D" = (
 /obj/structure/railing,
 /mob/living/basic/snake/banded/harmless,

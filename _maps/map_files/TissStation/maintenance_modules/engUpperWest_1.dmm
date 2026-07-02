@@ -162,8 +162,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
 "mw" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "mU" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -184,8 +184,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
 "qR" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "rp" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/closet,

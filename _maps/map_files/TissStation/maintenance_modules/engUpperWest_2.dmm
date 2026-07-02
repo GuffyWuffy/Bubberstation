@@ -69,8 +69,8 @@
 /obj/item/food/kebab{
 	pixel_x = 16
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "ic" = (
 /obj/modular_map_connector,
 /turf/open/floor/plating,
@@ -137,8 +137,8 @@
 /obj/item/food/kebab/monkey{
 	pixel_x = -16
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "nu" = (
 /obj/structure/disposalpipe/segment{
 	dir = 9
@@ -270,8 +270,8 @@
 /turf/open/floor/wood,
 /area/station/maintenance/port/aft)
 "yI" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "zC" = (
 /obj/structure/girder,
 /obj/effect/decal/cleanable/dirt,
@@ -347,8 +347,8 @@
 /obj/item/food/kebab/tofu{
 	pixel_y = 16
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "KV" = (
 /obj/effect/spawner/random/structure/closet_empty,
 /turf/open/floor/plating,
@@ -378,8 +378,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
 "Of" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Pu" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -421,8 +421,8 @@
 /obj/item/food/kebab/human{
 	pixel_y = -16
 	},
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Ts" = (
 /obj/structure/table/glass,
 /obj/item/reagent_containers/cup/glass/bottle/vermouth{
@@ -449,8 +449,8 @@
 /area/station/maintenance/port/aft)
 "UN" = (
 /obj/structure/bonfire,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Vw" = (
 /turf/template_noop,
 /area/template_noop)
@@ -472,7 +472,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
 "WG" = (
-/turf/closed/wall/rock/porous,
+/turf/closed/wall/ice,
 /area/station/maintenance/port/aft)
 "WY" = (
 /obj/effect/decal/cleanable/dirt,

@@ -113,7 +113,7 @@
 "iq" = (
 /obj/structure/tank_holder/extinguisher,
 /turf/open/floor/plating,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "iJ" = (
 /obj/effect/spawner/random/engineering/tank,
 /turf/open/floor/plating,
@@ -519,8 +519,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/bar)
 "Lv" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "LW" = (
 /obj/structure/sign/poster/contraband/trigger/directional/south,
 /obj/structure/sign/poster/contraband/seabiscuit/directional/east,
@@ -623,8 +623,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/bar)
 "VW" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "XM" = (
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/dorms)

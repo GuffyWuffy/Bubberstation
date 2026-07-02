@@ -42,10 +42,9 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "bG" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/transit_tube/crossing,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "bS" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -106,8 +105,8 @@
 /area/station/maintenance/department/cargo)
 "fh" = (
 /obj/item/food/burger/crazy,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "fm" = (
 /turf/template_noop,
 /area/template_noop)
@@ -356,8 +355,8 @@
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/cargo)
 "sV" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "sW" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -375,9 +374,8 @@
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/cargo)
 "tG" = (
-/obj/effect/turf_decal/sand/plating,
 /turf/open/floor/plating,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "tT" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -549,12 +547,11 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Ew" = (
-/obj/effect/turf_decal/sand/plating,
 /obj/structure/transit_tube/curved{
 	dir = 1
 	},
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "EN" = (
 /obj/machinery/door/airlock{
 	name = "Maintenance Bathroom"
@@ -644,8 +641,8 @@
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/cargo)
 "MP" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "OJ" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1

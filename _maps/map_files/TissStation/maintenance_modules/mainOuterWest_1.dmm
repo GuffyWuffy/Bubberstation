@@ -52,9 +52,8 @@
 /turf/template_noop,
 /area/station/maintenance/port/central)
 "fs" = (
-/obj/structure/lattice,
-/turf/open/space/basic,
-/area/space/nearstation)
+/turf/open/floor/plating/snowed/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "fF" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 1
@@ -162,10 +161,9 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/central)
 "rp" = (
-/obj/structure/lattice/catwalk,
 /obj/structure/marker_beacon/purple,
-/turf/open/space/basic,
-/area/space/nearstation)
+/turf/open/floor/plating/snowed/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "rQ" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -210,11 +208,11 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/central)
 "wg" = (
-/turf/open/floor/plating/airless,
+/turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/station/maintenance/port/central)
 "xt" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "yc" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -361,10 +359,9 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/central)
 "Ka" = (
-/obj/structure/lattice/catwalk,
 /obj/structure/marker_beacon/indigo,
-/turf/open/space/basic,
-/area/space/nearstation)
+/turf/open/floor/plating/snowed/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "KB" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/maintenance/two,

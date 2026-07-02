@@ -1,7 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "b" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -28,8 +28,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/aft)
 "j" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "k" = (
 /obj/structure/transit_tube/curved/flipped{
 	dir = 4
@@ -65,7 +65,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/aft)
 "s" = (
-/turf/closed/wall/rock/porous,
+/turf/closed/wall/ice,
 /area/station/maintenance/starboard/aft)
 "u" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,

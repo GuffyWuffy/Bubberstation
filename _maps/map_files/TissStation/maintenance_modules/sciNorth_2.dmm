@@ -76,7 +76,7 @@
 /area/station/maintenance/rags)
 "cY" = (
 /turf/closed/mineral/random/stationside/asteroid,
-/area/station/asteroid)
+/area/icemoon/surface/outdoors/less_spawns)
 "cZ" = (
 /obj/effect/turf_decal/tile/dark_blue/opposingcorners{
 	dir = 1
@@ -898,8 +898,8 @@
 /turf/open/floor/iron/white,
 /area/station/maintenance/rags)
 "Pz" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "PP" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/table,
@@ -944,8 +944,8 @@
 /turf/open/floor/iron/grimy,
 /area/station/maintenance/rags)
 "QO" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "Rq" = (
 /obj/structure/table/wood,
 /obj/effect/turf_decal/tile/dark/diagonal_edge,
@@ -1037,9 +1037,8 @@
 /turf/open/floor/iron/white/small,
 /area/station/maintenance/rags)
 "WQ" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Yc" = (
 /obj/structure/chair/stool/directional/east,
 /obj/effect/turf_decal/tile/dark_blue/opposingcorners{

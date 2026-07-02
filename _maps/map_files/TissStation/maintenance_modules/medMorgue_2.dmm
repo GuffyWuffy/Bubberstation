@@ -1,7 +1,7 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "a" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "c" = (
 /obj/structure/closet/crate/trashcart/filled,
 /obj/effect/spawner/random/medical/memeorgans,
@@ -136,8 +136,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "C" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "E" = (
 /turf/template_noop,
 /area/template_noop)

@@ -77,8 +77,8 @@
 /turf/open/floor/iron/white/diagonal,
 /area/station/maintenance/rags)
 "gF" = (
-/turf/closed/mineral/random/stationside/asteroid/porus,
-/area/station/asteroid)
+/turf/closed/mineral/random/snow,
+/area/icemoon/surface/outdoors/less_spawns)
 "gI" = (
 /obj/machinery/space_heater,
 /turf/open/floor/plating,
@@ -333,9 +333,8 @@
 /turf/open/floor/carpet/green,
 /area/station/maintenance/rags)
 "xf" = (
-/obj/effect/turf_decal/sand/plating,
-/turf/open/floor/plating/airless,
-/area/station/asteroid)
+/turf/open/floor/plating/snowed/smoothed/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "xY" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/item/hand_labeler_refill,
@@ -391,8 +390,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/xenobiology)
 "AZ" = (
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Bp" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/machinery/light/small/dim/directional/south,
@@ -647,8 +646,8 @@
 /area/station/maintenance/rags)
 "Ug" = (
 /obj/effect/decal/cleanable/glass,
-/turf/open/misc/asteroid/airless,
-/area/station/asteroid)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/less_spawns)
 "Uu" = (
 /obj/structure/bed{
 	pixel_x = 2
