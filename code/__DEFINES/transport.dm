@@ -20,7 +20,13 @@
 #define BIRDSHOT_LINE_1 "bird_1"
 #define BIRDSHOT_LINE_2 "bird_2"
 #define HERETIC_LINE_1 "heretic_1"
-#define TISS_LINE_1 "tiss_1" // Bubber edit
+ /// Bubber edit start
+#define TISS_LINE_AI "tiss_1"
+#define TISS_LINE_N "tiss_2"
+#define TISS_LINE_E "tiss_3"
+#define TISS_LINE_S "tiss_4"
+#define TISS_LINE_W "tiss_5"
+ /// Bubber edit end
 
 // Destinations/platforms
 #define TRAMSTATION_WEST 1
@@ -42,8 +48,21 @@
 #define BRIDSHOT_MAINTENANCE_RIGHT 2
 
 /// Bubber edit start
-#define TISS_NORTH 1
-#define TISS_SOUTH 2
+#define TISS_AI_NORTH 1
+#define TISS_AI_SOUTH 2
+
+#define TISS_NORTH_CARGO 1
+#define TISS_NORTH_SEC 2
+
+#define TISS_EAST_SEC 1
+#define TISS_EAST_SCI 2
+
+#define TISS_SOUTH_SCI 1
+#define TISS_SOUTH_CENTRAL 2
+#define TISS_SOUTH_MED 3
+
+#define TISS_WEST_MED 1
+#define TISS_WEST_CARGO 2
 /// Bubber edit end
 
 // Tram Navigation aids

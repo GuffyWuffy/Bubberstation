@@ -952,6 +952,7 @@
 /area/station/maintenance/starboard/central)
 "NN" = (
 /obj/structure/transit_tube/crossing/horizontal,
+/turf/open/floor/plating,
 /area/icemoon/surface/outdoors/nospawn)
 "Of" = (
 /obj/structure/disposalpipe/segment,

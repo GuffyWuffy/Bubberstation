@@ -168,7 +168,6 @@
 /area/station/maintenance/department/medical)
 "V" = (
 /turf/open/floor/plating/snowed/icemoon,
-/turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
 "W" = (
 /obj/structure/cable,

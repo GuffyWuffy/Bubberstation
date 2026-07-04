@@ -1,0 +1,5 @@
+/obj/effect/landmark/transport/transport_id/tiss/line_1 : /obj/effect/landmark/transport/transport_id/tiss/line_ai
+/obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/north : /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/ai/north
+/obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/south : /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/ai/south
+/obj/machinery/transport/tram_controller/tiss : /obj/machinery/transport/tram_controller/tiss/ai
+/obj/effect/landmark/transport/nav_beacon/tram/nav/tiss/main : /obj/effect/landmark/transport/nav_beacon/tram/nav/tiss/ai
