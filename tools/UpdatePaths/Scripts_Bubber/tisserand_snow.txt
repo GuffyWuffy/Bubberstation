@@ -10,3 +10,4 @@
 /obj/structure/lattice/catwalk : /turf/open/floor/plating/snowed/icemoon
 /area/space : /turf/open/space/basic, /area/space
 /turf/open/floor/iron/solarpanel/airless : /turf/open/floor/plating/snowed/icemoon
+/turf/open/space/basic : /turf/open/openspace/icemoon

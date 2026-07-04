@@ -9,7 +9,7 @@
 /turf/closed/mineral/random/snow,
 /area/icemoon/surface/outdoors/less_spawns)
 "d" = (
-/obj/effect/spawner/random/structure/grille,
+/obj/structure/cable/multilayer/multiz,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "e" = (

@@ -105,6 +105,10 @@
 /obj/effect/mapping_helpers/airlock/locked,
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
+"x" = (
+/obj/structure/cable/multilayer/multiz,
+/turf/open/floor/plating,
+/area/station/maintenance/department/medical)
 "y" = (
 /turf/closed/wall,
 /area/station/maintenance/department/medical)
@@ -324,7 +328,7 @@ t
 y
 y
 y
-J
+x
 R
 R
 a
@@ -370,7 +374,7 @@ w
 R
 R
 h
-h
+J
 m
 g
 a
