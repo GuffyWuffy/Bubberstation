@@ -102,3 +102,13 @@
 	else if(isliving(hit_atom))
 		var/mob/living/target = hit_atom
 		target.Stun(2 SECONDS)
+
+
+/// make tram doors go north/south?
+
+
+/obj/machinery/door/airlock/tram/vert
+	icon = 'modular_zubbers/icons/maps/tisserand/tram_door/tramVert.dmi'
+	overlays_file = 'modular_zubbers/icons/maps/tisserand/tram_door/tramVert-overlays.dmi'
+	bound_width = 32
+	bound_height = 64

@@ -121,3 +121,59 @@
 	ambientsounds = list(
 		'modular_zubbers/sound/ambiance/rags.ogg',
 		)
+
+/// tram subways
+
+/area/station/subway/cargo/west
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subW"
+	name = "\improper Cargo Subway Platform - West Tram"
+
+/area/station/subway/cargo/north
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subN"
+	name = "\improper Cargo Subway Platform - North Tram"
+
+
+/area/station/subway/sec/north
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subN"
+	name = "\improper Security Subway Platform - North Tram"
+
+/area/station/subway/sec/east
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subE"
+	name = "\improper Security Subway Platform - East Tram"
+
+
+/area/station/subway/sci/east
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subE"
+	name = "\improper Science Subway Platform - East Tram"
+
+/area/station/subway/sci/south
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subS"
+	name = "\improper Science Subway Platform - South Tram"
+
+
+/area/station/subway/central/south
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subS"
+	name = "\improper Central Subway Platform - South Tram"
+
+
+/area/station/subway/med/south
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subS"
+	name = "\improper Medical Subway Platform - South Tram"
+
+/area/station/subway/med/west
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "subW"
+	name = "\improper Medical Subway Platform - West Tram"
+
+/area/station/subway/tunnel
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "tiss"
+	name = "\improper Subway Tunnels"

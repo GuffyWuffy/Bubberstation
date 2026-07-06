@@ -7,7 +7,7 @@
 	AddComponent(/datum/component/wet_floor, TURF_WET_LUBE, INFINITY, 0, INFINITY, TRUE)
 
 
-	/// Picnic Blanket Floor
+/// Picnic Blanket Floor
 
 /turf/open/floor/carpet/picnic
 	name = "picnic blanket"
@@ -38,3 +38,16 @@
 	contains = list(/obj/item/stack/tile/carpet/picnic/fifty = 1)
 	crate_name = "picnic blanket crate"
 	discountable = SUPPLY_PACK_UNCOMMON_DISCOUNTABLE
+
+
+/// tram lines going north/south
+
+/turf/open/indestructible/tram/vert
+	icon = 'modular_zubbers/icons/maps/tisserand/tram.dmi'
+	icon_state = "tram_platform_v"
+	base_icon_state = "tram_platform_v"
+
+/turf/open/indestructible/tram/plate/vert
+	icon = 'modular_zubbers/icons/maps/tisserand/tram.dmi'
+	icon_state = "tram_plate_v"
+	base_icon_state = "tram_plate_v"
