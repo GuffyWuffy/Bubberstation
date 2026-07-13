@@ -650,9 +650,6 @@
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,
 /area/station/commons/fitness)
-"ZY" = (
-/turf/open/space/basic,
-/area/space)
 
 (1,1,1) = {"
 os
@@ -893,7 +890,7 @@ VW
 Lv
 Lv
 Lv
-ZY
+os
 vF
 os
 "}
@@ -917,10 +914,10 @@ wy
 VW
 VW
 Lv
-ZY
-ZY
-ZY
-ZY
+os
+os
+os
+os
 vF
 os
 "}
@@ -943,11 +940,11 @@ MN
 aB
 Ox
 VW
-ZY
-ZY
-ZY
-ZY
-ZY
+os
+os
+os
+os
+os
 os
 os
 "}
@@ -973,8 +970,8 @@ Ox
 Ox
 Lv
 Lv
-ZY
-ZY
+os
+os
 vF
 os
 "}
@@ -1001,7 +998,7 @@ Bx
 VW
 VW
 VW
-ZY
+os
 vF
 os
 "}

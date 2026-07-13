@@ -66,6 +66,13 @@
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
+"mJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/station/maintenance/central/lesser)
 "na" = (
 /obj/machinery/duct,
 /turf/open/floor/plating,
@@ -372,7 +379,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "To" = (
-/obj/effect/spawner/random/engineering/tank,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "Tz" = (
@@ -1076,8 +1084,8 @@ LB
 Cq
 QJ
 ru
-BS
-WE
+mJ
+To
 uu
 uu
 uu
@@ -1107,8 +1115,8 @@ Er
 Ou
 tF
 Cq
-Cq
-To
+WE
+WE
 uu
 uu
 uu

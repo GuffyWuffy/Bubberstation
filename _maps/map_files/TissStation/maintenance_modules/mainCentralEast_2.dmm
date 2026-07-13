@@ -154,6 +154,12 @@
 /obj/effect/spawner/random/engineering/canister,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
+"pN" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/plating,
+/area/station/maintenance/central/lesser)
 "rI" = (
 /obj/machinery/door/airlock/grunge,
 /turf/open/floor/plating,
@@ -357,6 +363,13 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
+/turf/open/floor/plating,
+/area/station/maintenance/central/lesser)
+"Ot" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "Qk" = (
@@ -1099,8 +1112,8 @@ eq
 Qp
 SI
 LX
-xb
-ls
+Ot
+pN
 VW
 VW
 VW
@@ -1129,9 +1142,9 @@ Fg
 bX
 DS
 BD
-ls
-WQ
-ls
+xb
+hn
+hn
 VW
 VW
 VW
