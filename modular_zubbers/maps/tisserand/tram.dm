@@ -212,3 +212,29 @@
 
 	controller_datum.notify_controller(src)
 	RegisterSignal(SStransport, COMSIG_TRANSPORT_UPDATED, PROC_REF(sync_controller))
+
+
+
+
+/obj/machinery/transport/destination_sign/indicator/tiss/north
+	icon = 'modular_zubbers/icons/maps/tisserand/tram_indicator.dmi'
+	configured_transport_id = TISS_LINE_N
+
+/obj/machinery/transport/destination_sign/indicator/tiss/east
+	icon = 'modular_zubbers/icons/maps/tisserand/tram_indicator.dmi'
+	configured_transport_id = TISS_LINE_E
+
+/obj/machinery/transport/destination_sign/indicator/tiss/south
+	icon = 'modular_zubbers/icons/maps/tisserand/tram_indicator.dmi'
+	configured_transport_id = TISS_LINE_S
+
+/obj/machinery/transport/destination_sign/indicator/tiss/west
+	icon = 'modular_zubbers/icons/maps/tisserand/tram_indicator.dmi'
+	configured_transport_id = TISS_LINE_W
+
+/obj/machinery/transport/destination_sign/Initialize(mapload)
+	. = ..()
+	LAZYADD(available_faces, TISS_LINE_N)
+	LAZYADD(available_faces, TISS_LINE_E)
+	LAZYADD(available_faces, TISS_LINE_S)
+	LAZYADD(available_faces, TISS_LINE_W)
