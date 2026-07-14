@@ -25,7 +25,7 @@
 	"traits": [
 		{
 			"Mining": true,
-			"Linkage": null,
+			"Linkage": "Grid",
 			"Gravity": true,
 			"Ice Ruins Underground": true,
 			"Baseturf": "/turf/open/lava/plasma/ice_moon",
@@ -41,7 +41,7 @@
 		},
 		{
 			"Mining": true,
-			"Linkage": "Grid",
+			"Linkage": null,
 			"Gravity": true,
 			"Ice Ruins": true,
 			"Weather_Snowstorm": true,
