@@ -332,8 +332,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/central)
 "GL" = (
-/turf/open/space/basic,
-/area/space)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "Hy" = (
 /turf/template_noop,
 /area/template_noop)
