@@ -181,9 +181,6 @@
 "tr" = (
 /turf/template_noop,
 /area/template_noop)
-"ur" = (
-/turf/closed/wall/r_wall,
-/area/icemoon/surface/outdoors/less_spawns)
 "uy" = (
 /turf/closed/wall/mineral/stone,
 /area/station/maintenance/starboard/fore)
@@ -468,8 +465,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
 "Yv" = (
-/turf/open/space/basic,
-/area/space)
+/turf/open/misc/asteroid/snow/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "YZ" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/structure/grille,
@@ -1150,7 +1147,7 @@ tr
 tr
 tr
 tr
-ur
+bn
 bn
 bn
 bn

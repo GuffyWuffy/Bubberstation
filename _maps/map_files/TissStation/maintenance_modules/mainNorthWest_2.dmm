@@ -24,8 +24,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "ds" = (
-/turf/open/space/basic,
-/area/space)
+/turf/open/openspace/icemoon,
+/area/icemoon/surface/outdoors/nospawn)
 "ff" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8

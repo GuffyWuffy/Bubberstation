@@ -74,9 +74,6 @@
 /obj/effect/decal/cleanable/food/tomato_smudge,
 /turf/open/floor/iron/white/small,
 /area/station/maintenance/rags)
-"cY" = (
-/turf/closed/mineral/random/stationside/asteroid,
-/area/icemoon/surface/outdoors/less_spawns)
 "cZ" = (
 /obj/effect/turf_decal/tile/dark_blue/opposingcorners{
 	dir = 1
@@ -567,9 +564,6 @@
 /obj/machinery/door/firedoor,
 /turf/open/floor/iron/white/small,
 /area/station/maintenance/rags)
-"AW" = (
-/turf/open/space/basic,
-/area/space)
 "Bi" = (
 /obj/effect/turf_decal/tile/yellow/opposingcorners,
 /obj/effect/turf_decal/tile/dark_blue/opposingcorners{
@@ -2559,7 +2553,7 @@ Ak
 Ak
 "}
 (54,1,1) = {"
-AW
+Ak
 Pz
 Pz
 Pz
@@ -2587,9 +2581,9 @@ Ak
 "}
 (55,1,1) = {"
 Ak
-AW
-AW
-AW
+Ak
+Ak
+Ak
 Pz
 QO
 QO
@@ -2614,10 +2608,10 @@ Ak
 "}
 (56,1,1) = {"
 Ak
-AW
-cY
-cY
-AW
+Ak
+QO
+QO
+Ak
 Pz
 Pz
 Pz
@@ -2641,10 +2635,10 @@ Ak
 "}
 (57,1,1) = {"
 Ak
-AW
-cY
-cY
-AW
+Ak
+QO
+QO
+Ak
 Pz
 Pz
 Pz
@@ -2669,9 +2663,9 @@ Ak
 (58,1,1) = {"
 Ak
 Ak
-AW
-cY
-AW
+Ak
+QO
+Ak
 Pz
 Pz
 QO
@@ -2698,7 +2692,7 @@ Ak
 Ak
 Ak
 Ak
-AW
+Ak
 Pz
 Pz
 Pz
@@ -2861,9 +2855,9 @@ Ak
 Ak
 Ak
 Ak
-AW
-AW
-AW
+Ak
+Ak
+Ak
 Pz
 QO
 QO
@@ -2887,10 +2881,10 @@ Ak
 Ak
 Ak
 Ak
-AW
-AW
-AW
-AW
+Ak
+Ak
+Ak
+Ak
 Pz
 Pz
 QO
@@ -2913,10 +2907,10 @@ Ak
 Ak
 Ak
 Ak
-AW
-AW
-AW
-AW
+Ak
+Ak
+Ak
+Ak
 QO
 Pz
 Pz
@@ -2939,11 +2933,11 @@ Ak
 (68,1,1) = {"
 Ak
 Ak
-AW
-AW
-AW
-AW
-AW
+Ak
+Ak
+Ak
+Ak
+Ak
 QO
 QO
 Pz
@@ -2964,12 +2958,12 @@ Ak
 Ak
 "}
 (69,1,1) = {"
-AW
-AW
-AW
-AW
-AW
-AW
+Ak
+Ak
+Ak
+Ak
+Ak
+Ak
 QO
 QO
 QO
@@ -2991,11 +2985,11 @@ Ak
 Ak
 "}
 (70,1,1) = {"
-AW
-AW
-AW
-AW
-AW
+Ak
+Ak
+Ak
+Ak
+Ak
 QO
 QO
 QO
@@ -3019,8 +3013,8 @@ Ak
 "}
 (71,1,1) = {"
 Ak
-AW
-AW
+Ak
+Ak
 Ak
 Ak
 Ak

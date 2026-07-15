@@ -2,7 +2,6 @@
 "ag" = (
 /mob/living/basic/pet/chinchilla/white{
 	name = "\improper Dolby";
-	color = "#FF0000";
 	desc = "Dobie Digital. Now with Frost Shield!"
 	},
 /obj/structure/railing{

@@ -82,6 +82,10 @@
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/security/brig)
+"q" = (
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/station/maintenance/department/security/brig)
 "r" = (
 /obj/structure/rack,
 /obj/item/vape/purple{
@@ -341,8 +345,8 @@ a
 a
 a
 a
-k
-o
+z
+z
 z
 m
 P
@@ -364,8 +368,8 @@ a
 a
 a
 a
-k
-o
+z
+A
 z
 r
 s
@@ -387,8 +391,8 @@ a
 a
 a
 a
-k
-o
+z
+q
 z
 M
 G
@@ -411,7 +415,7 @@ a
 z
 z
 z
-z
+E
 z
 x
 x

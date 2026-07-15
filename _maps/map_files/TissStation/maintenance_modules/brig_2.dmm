@@ -291,6 +291,12 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security/brig)
+"G" = (
+/obj/structure/cable,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/turf/open/floor/plating,
+/area/station/maintenance/department/security/brig)
 "H" = (
 /obj/machinery/digital_clock/directional/north,
 /obj/effect/turf_decal/siding/wood,
@@ -573,8 +579,8 @@ a
 a
 a
 a
-z
-m
+V
+V
 V
 V
 g
@@ -596,8 +602,8 @@ a
 a
 a
 a
-z
-m
+V
+k
 V
 E
 k
@@ -619,8 +625,8 @@ a
 a
 a
 a
-z
-m
+V
+D
 V
 Q
 Q
@@ -643,7 +649,7 @@ a
 V
 V
 V
-V
+G
 V
 e
 k
