@@ -83,7 +83,7 @@
 /turf/open/floor/plastic,
 /area/station/maintenance/department/medical)
 "v" = (
-/mob/living/simple_animal/bot/mulebot{
+/mob/living/basic/bot/mulebot{
 	name = "\improper The Horrorscope";
 	desc = "Scary guy..."
 	},
