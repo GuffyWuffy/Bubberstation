@@ -57,13 +57,13 @@
 	name = "Cargo"
 	specific_transport_id = TISS_LINE_N
 	platform_code = TISS_NORTH_CARGO
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Cargo" = "box")
 
 /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/north/sec
 	name = "Security"
 	specific_transport_id = TISS_LINE_N
 	platform_code = TISS_NORTH_SEC
-	tgui_icons = list("AI" = "cogs") // FIX
+	tgui_icons = list("Security" = "gun")
 
 
 /obj/machinery/transport/tram_controller/tiss/north
@@ -99,7 +99,7 @@
 	name = "Security"
 	specific_transport_id = TISS_LINE_E
 	platform_code = TISS_EAST_SEC
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Security" = "gun")
 
 /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/east/sci
 	name = "Science"
@@ -147,13 +147,13 @@
 	name = "Central"
 	specific_transport_id = TISS_LINE_S
 	platform_code = TISS_SOUTH_CENTRAL
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Central" = "water-ladder")
 
 /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/south/med
 	name = "Medical"
 	specific_transport_id = TISS_LINE_S
 	platform_code = TISS_SOUTH_MED
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Medical" = "briefcase-medical")
 
 
 /obj/machinery/transport/tram_controller/tiss/south
@@ -189,13 +189,13 @@
 	name = "Medical"
 	specific_transport_id = TISS_LINE_W
 	platform_code = TISS_WEST_MED
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Medical" = "briefcase-medical")
 
 /obj/effect/landmark/transport/nav_beacon/tram/platform/tiss/west/cargo
 	name = "Cargo"
 	specific_transport_id = TISS_LINE_W
 	platform_code = TISS_WEST_CARGO
-	tgui_icons = list("Science" = "flask") // FIX
+	tgui_icons = list("Cargo" = "box")
 
 
 /obj/machinery/transport/tram_controller/tiss/west
