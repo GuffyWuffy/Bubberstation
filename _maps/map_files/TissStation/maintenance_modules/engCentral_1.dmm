@@ -3,9 +3,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "aF" = (
@@ -32,15 +29,6 @@
 /obj/structure/closet/emcloset,
 /turf/open/misc/beach/sand,
 /area/station/maintenance/department/engine)
-"cF" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/engine)
 "cN" = (
 /obj/modular_map_connector,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/visible,
@@ -64,7 +52,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/general,
 /obj/machinery/door/airlock/maintenance,
 /turf/open/floor/plating,
@@ -139,9 +126,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "qd" = (
@@ -192,7 +176,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /obj/structure/sign/poster/random/directional/west,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
@@ -254,9 +237,6 @@
 "Ag" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/orange/visible,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
@@ -329,9 +309,6 @@
 /area/station/maintenance/department/engine)
 "Fj" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
@@ -345,7 +322,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/junction/flip,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
@@ -367,7 +343,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/station/maintenance/department/engine)
@@ -408,15 +383,6 @@
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/wood,
 /area/station/maintenance/department/engine)
-"NI" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/engine)
 "NQ" = (
 /obj/structure/chair/wood{
 	dir = 4
@@ -446,13 +412,6 @@
 /obj/structure/closet/emcloset,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /turf/open/misc/beach/sand,
-/area/station/maintenance/department/engine)
-"Rp" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
 /area/station/maintenance/department/engine)
 "Rs" = (
 /obj/structure/table,
@@ -1442,7 +1401,7 @@ BY
 BY
 BY
 BY
-NI
+au
 sO
 pW
 KW
@@ -1489,7 +1448,7 @@ BY
 BY
 BY
 BY
-cF
+au
 qx
 qf
 sI
@@ -1536,7 +1495,7 @@ BY
 BY
 BY
 BY
-cF
+au
 si
 si
 si
@@ -1583,7 +1542,7 @@ BY
 BY
 BY
 BY
-cF
+au
 si
 Ik
 eJ
@@ -1630,7 +1589,7 @@ BY
 BY
 BY
 BY
-cF
+au
 si
 cg
 Bz
@@ -1677,7 +1636,7 @@ BY
 BY
 BY
 BY
-cF
+au
 si
 QO
 NZ
@@ -1724,7 +1683,7 @@ BY
 BY
 BY
 BY
-cF
+au
 si
 si
 DO
@@ -1760,17 +1719,17 @@ BY
 "}
 (27,1,1) = {"
 BY
-NI
-Rp
-Rp
-Rp
-Rp
-Rp
-Rp
+au
+au
+au
+au
+au
+au
+au
 Jg
-Rp
+au
 FF
-Rp
+au
 au
 Ye
 Ye

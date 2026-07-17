@@ -9,13 +9,6 @@
 /obj/effect/spawner/random/medical/memeorgans,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
-"d" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
 "e" = (
 /obj/effect/spawner/random/engineering/atmospherics_portable,
 /turf/open/floor/plating,
@@ -31,15 +24,6 @@
 /obj/structure/railing,
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/medical/morgue)
-"h" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
 "j" = (
 /obj/structure/railing{
 	dir = 1
@@ -52,15 +36,6 @@
 /area/station/maintenance/department/medical/morgue)
 "l" = (
 /turf/closed/wall,
-/area/station/maintenance/department/medical/morgue)
-"n" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "o" = (
 /obj/structure/railing{
@@ -92,9 +67,6 @@
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/medical/morgue)
 "u" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/door/airlock/maintenance{
 	name = "Medbay Maintenance"
 	},
@@ -112,27 +84,11 @@
 /obj/structure/mannequin/plastic,
 /turf/open/floor/glass/reinforced/plasma,
 /area/station/maintenance/department/medical/morgue)
-"x" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
 "A" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/machinery/power/apc/auto_name/directional/south,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
-"B" = (
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "C" = (
@@ -141,31 +97,12 @@
 "E" = (
 /turf/template_noop,
 /area/template_noop)
-"F" = (
-/obj/structure/disposalpipe/segment,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
 "H" = (
 /obj/structure/mannequin/wood,
 /turf/open/floor/glass/reinforced/plasma,
 /area/station/maintenance/department/medical/morgue)
 "I" = (
 /obj/structure/closet/emcloset/anchored,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
-"J" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "K" = (
@@ -176,9 +113,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/modular_map_connector,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
@@ -189,12 +123,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "O" = (
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
-"P" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "Q" = (
@@ -212,9 +140,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/window/reinforced/tinted/fulltile,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
@@ -222,9 +147,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
@@ -237,21 +159,6 @@
 	},
 /obj/structure/marker_beacon/cerulean,
 /turf/open/floor/glass/reinforced,
-/area/station/maintenance/department/medical/morgue)
-"X" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical/morgue)
-"Y" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
 /area/station/maintenance/department/medical/morgue)
 "Z" = (
 /obj/effect/turf_decal/stripes/line,
@@ -621,7 +528,7 @@ E
 (21,1,1) = {"
 E
 l
-n
+N
 E
 E
 E
@@ -639,7 +546,7 @@ E
 (22,1,1) = {"
 E
 R
-n
+N
 E
 E
 E
@@ -656,7 +563,7 @@ E
 "}
 (23,1,1) = {"
 E
-Y
+N
 A
 E
 E
@@ -674,11 +581,11 @@ E
 "}
 (24,1,1) = {"
 E
-n
+N
 l
 l
 l
-P
+O
 l
 l
 s
@@ -692,11 +599,11 @@ E
 "}
 (25,1,1) = {"
 E
-J
-d
-d
-x
-P
+N
+N
+N
+N
+O
 Z
 V
 q
@@ -729,10 +636,10 @@ E
 (27,1,1) = {"
 E
 E
-B
-B
-F
-X
+O
+O
+N
+O
 Z
 V
 q
@@ -767,8 +674,8 @@ E
 E
 e
 O
-J
-x
+N
+N
 K
 l
 a
@@ -786,7 +693,7 @@ E
 l
 l
 l
-n
+N
 l
 l
 E
@@ -801,10 +708,10 @@ E
 (31,1,1) = {"
 E
 E
-Y
-d
-d
-h
+N
+N
+N
+N
 l
 a
 E

@@ -34,9 +34,6 @@
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
 "bK" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -67,7 +64,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
@@ -112,44 +108,17 @@
 	},
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"ga" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "gh" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
-"gj" = (
-/obj/structure/disposalpipe/segment,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "gk" = (
 /obj/item/robot_suit,
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"go" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "gv" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 6
@@ -177,24 +146,6 @@
 /obj/effect/landmark/event_spawn,
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
-"ja" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
-"jC" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "jH" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/generic_maintenance_landmark,
@@ -218,9 +169,6 @@
 /area/station/maintenance/department/science/west)
 "kZ" = (
 /obj/modular_map_connector,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -259,13 +207,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
-"mj" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "mo" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -278,16 +219,6 @@
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
-"mX" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "nW" = (
 /obj/structure/broken_flooring/corner/directional/north,
 /obj/structure/chair/office{
@@ -340,16 +271,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"rj" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "rs" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
@@ -358,16 +279,6 @@
 /obj/item/kirbyplants/random/fullysynthetic,
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"rT" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "sx" = (
 /obj/structure/table,
 /obj/item/book/manual/wiki/robotics_cyborgs,
@@ -405,9 +316,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/power/apc/auto_name/directional/north,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
@@ -498,15 +406,6 @@
 "Al" = (
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
-"Ax" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "AA" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -529,16 +428,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"BI" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "BS" = (
 /obj/structure/rack,
 /obj/effect/spawner/random/maintenance/two,
@@ -585,18 +474,7 @@
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
 "FK" = (
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/crate,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
-"Gb" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
 "GK" = (
@@ -608,19 +486,8 @@
 /turf/open/floor/circuit/green/anim,
 /area/station/science/research/abandoned)
 "GY" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/structure/crate,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
-"Hf" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
 "Hz" = (
@@ -674,9 +541,6 @@
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
 "Kv" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/transit_tube/diagonal/crossing,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -710,16 +574,6 @@
 /obj/effect/landmark/generic_maintenance_landmark,
 /turf/open/floor/plating,
 /area/station/science/research/abandoned)
-"LV" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "NF" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -734,16 +588,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron,
 /area/station/science/research/abandoned)
-"OA" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
 "OG" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/computer/mech_bay_power_console{
@@ -788,7 +632,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
@@ -867,15 +710,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/west)
-"ZW" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/west)
 
@@ -1027,7 +861,7 @@ lr
 lr
 HI
 bK
-BI
+bK
 lr
 lr
 lr
@@ -1075,7 +909,7 @@ lr
 lr
 lr
 os
-rT
+BU
 Yb
 lr
 lr
@@ -1123,9 +957,9 @@ RA
 lr
 lr
 lr
-OA
-gj
-ga
+BU
+BU
+ZK
 lr
 lr
 lr
@@ -1173,7 +1007,7 @@ lr
 lr
 lr
 os
-Ax
+ZK
 lr
 lr
 lr
@@ -1269,7 +1103,7 @@ lr
 lr
 lr
 Us
-rT
+BU
 os
 VI
 VI
@@ -1317,7 +1151,7 @@ lr
 lr
 lr
 BY
-rT
+BU
 os
 os
 os
@@ -1365,8 +1199,8 @@ lr
 lr
 lr
 lr
-OA
-gj
+BU
+BU
 FK
 GY
 os
@@ -1374,16 +1208,16 @@ lr
 os
 vn
 ll
-rj
-Hf
-Hf
-Hf
-Hf
-Hf
-mj
+BU
+qA
+qA
+qA
+qA
+qA
+Ck
 df
-Hf
-Gb
+qA
+qA
 VX
 KG
 rs
@@ -1416,13 +1250,13 @@ lr
 kC
 BU
 ZK
-mX
+BU
 KG
 aQ
 VX
 VX
 aQ
-Ax
+ZK
 lr
 lr
 lr
@@ -1431,10 +1265,10 @@ lr
 lr
 lr
 Xr
-ja
-Hf
-Hf
-Gb
+Ck
+qA
+qA
+qA
 YI
 fM
 nW
@@ -1464,13 +1298,13 @@ lr
 lr
 lr
 lr
-go
-Hf
+qA
+qA
 RR
-Hf
-Hf
+qA
+qA
 RR
-ZW
+Ck
 lr
 lr
 lr
@@ -1530,7 +1364,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 YI
 YI
 YI
@@ -1578,7 +1412,7 @@ lr
 lr
 lr
 lr
-LV
+qA
 KG
 Li
 Hz
@@ -1626,7 +1460,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 qA
 qA
 qA
@@ -1674,7 +1508,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 lr
 lr
 lr
@@ -1722,7 +1556,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 lr
 lr
 lr
@@ -1770,7 +1604,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 lr
 lr
 lr
@@ -1818,7 +1652,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 lr
 lr
 lr
@@ -1866,7 +1700,7 @@ lr
 lr
 lr
 lr
-jC
+Ck
 lr
 lr
 lr

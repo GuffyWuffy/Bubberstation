@@ -16,13 +16,6 @@
 	},
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/port/fore)
-"bX" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/port/fore)
 "ds" = (
 /turf/open/openspace/icemoon,
 /area/icemoon/surface/outdoors/nospawn)
@@ -50,7 +43,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/door/airlock/hatch{
 	id_tag = "botty";
 	can_open_with_hands = 0;
@@ -75,15 +67,6 @@
 "lr" = (
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"lS" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/port/fore)
 "mk" = (
 /obj/effect/spawner/random/trash/hobo_squat,
 /turf/open/floor/plating,
@@ -101,9 +84,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /obj/structure/railing/corner/end/flip{
 	dir = 4
 	},
@@ -117,30 +97,12 @@
 /obj/machinery/portable_atmospherics/canister/air,
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
-"rv" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/port/fore)
 "rD" = (
 /turf/closed/mineral/random/snow,
 /area/icemoon/surface/outdoors/less_spawns)
 "rM" = (
 /obj/structure/closet/emcloset,
 /turf/open/floor/mineral/gold,
-/area/station/maintenance/port/fore)
-"sj" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "tI" = (
 /obj/structure/cable,
@@ -166,9 +128,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /obj/structure/railing{
 	dir = 1
 	},
@@ -182,7 +141,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/structure/sign/poster/official/random/directional/east,
 /turf/open/floor/mineral/gold,
 /area/station/maintenance/port/fore)
@@ -205,7 +163,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/door/airlock/grunge{
 	id_tag = "toppy";
 	can_open_with_hands = 0;
@@ -217,7 +174,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/power/apc/auto_name/directional/east,
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
@@ -234,7 +190,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/light/directional/east,
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/port/fore)
@@ -246,7 +201,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/airalarm/directional/east,
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/port/fore)
@@ -273,9 +227,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/sign/poster/contraband/random/directional/north,
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
@@ -296,35 +247,14 @@
 	},
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"Od" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/port/fore)
 "Pw" = (
 /obj/effect/spawner/random/decoration/statue,
 /turf/open/floor/mineral/gold,
-/area/station/maintenance/port/fore)
-"QG" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "Sr" = (
 /obj/machinery/button/door/directional/north{
 	id = "botty";
 	normaldoorcontrol = 1
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/port/fore)
-"Ss" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
@@ -360,9 +290,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/modular_map_connector,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
 "XP" = (
@@ -644,14 +571,14 @@ CP
 (10,1,1) = {"
 CP
 Xo
-bX
-bX
-bX
-bX
-bX
-bX
-bX
-bX
+Iw
+Iw
+Iw
+Iw
+Iw
+Iw
+Iw
+Iw
 ow
 LV
 LV
@@ -681,10 +608,10 @@ ff
 Iv
 UZ
 xn
-bX
+Iw
 Ft
-bX
-bX
+Iw
+Iw
 gX
 yG
 Hh
@@ -692,7 +619,7 @@ Ib
 Hh
 yG
 Ej
-sj
+tI
 CP
 CP
 CP
@@ -720,7 +647,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 CP
 CP
 CP
@@ -748,7 +675,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 CP
 CP
 CP
@@ -776,7 +703,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 LV
 Ic
 CP
@@ -804,7 +731,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 LV
 HU
 CP
@@ -860,7 +787,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 LV
 mk
 CP
@@ -888,7 +815,7 @@ CP
 CP
 CP
 CP
-lS
+tI
 LV
 CP
 CP
@@ -916,8 +843,8 @@ CP
 CP
 CP
 CP
-Ss
-Od
+tI
+LV
 CP
 CP
 "}
@@ -945,7 +872,7 @@ CP
 CP
 CP
 tI
-QG
+LV
 CP
 CP
 "}
@@ -973,8 +900,8 @@ CP
 CP
 CP
 tI
-Ss
-rv
+tI
+tI
 CP
 "}
 (22,1,1) = {"

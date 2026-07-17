@@ -71,9 +71,6 @@
 /area/station/maintenance/department/security)
 "eP" = (
 /obj/structure/transit_tube/crossing,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -85,7 +82,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "fk" = (
-/obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -103,14 +99,6 @@
 	},
 /obj/effect/spawner/random/structure/tank_holder,
 /turf/open/floor/iron,
-/area/station/maintenance/department/security)
-"iC" = (
-/obj/structure/disposalpipe/segment,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "iP" = (
 /obj/effect/spawner/random/structure/closet_empty,
@@ -159,9 +147,6 @@
 /turf/open/floor/iron,
 /area/station/maintenance/department/security)
 "pC" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -182,16 +167,6 @@
 /area/station/maintenance/department/security)
 "sz" = (
 /obj/structure/cable,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"sM" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
@@ -290,9 +265,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "zW" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -366,20 +338,9 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "EY" = (
-/obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Fn" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "FE" = (
@@ -387,25 +348,6 @@
 /area/icemoon/surface/outdoors/less_spawns)
 "Gh" = (
 /obj/effect/spawner/random/trash/garbage,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Hf" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Hj" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "Hl" = (
@@ -437,15 +379,6 @@
 /area/station/maintenance/department/security)
 "Kg" = (
 /obj/effect/spawner/random/trash/deluxe_garbage,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Ku" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "KB" = (
@@ -482,9 +415,6 @@
 /turf/open/floor/iron/freezer,
 /area/station/maintenance/department/security)
 "Od" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -501,16 +431,6 @@
 /area/station/maintenance/department/security)
 "Pw" = (
 /obj/effect/spawner/random/engineering/atmospherics_portable,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"PF" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "PR" = (
@@ -540,15 +460,6 @@
 "Sg" = (
 /obj/structure/table,
 /obj/item/pai_card,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Ss" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
 "SY" = (
@@ -598,14 +509,6 @@
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
 "YX" = (
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/security)
-"Za" = (
-/obj/structure/disposalpipe/segment,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/security)
@@ -688,8 +591,8 @@ tW
 tW
 tW
 tW
-Hf
-iC
+EY
+zH
 tW
 "}
 (3,1,1) = {"
@@ -724,8 +627,8 @@ tW
 tW
 tW
 tW
-Hj
-Za
+pC
+pC
 zW
 aN
 PR
@@ -759,9 +662,9 @@ tW
 tW
 tW
 tW
-Hf
 EY
-Za
+EY
+pC
 pC
 kE
 PR
@@ -795,7 +698,7 @@ tW
 tW
 tW
 tW
-Hf
+EY
 EY
 pC
 YX
@@ -833,7 +736,7 @@ tW
 tW
 zs
 aN
-sM
+pC
 nN
 ER
 PR
@@ -864,13 +767,13 @@ tW
 tW
 tW
 tW
-Hf
 EY
-Za
-Za
-Za
-Za
-Za
+EY
+pC
+pC
+pC
+pC
+pC
 pC
 PR
 PR
@@ -902,7 +805,7 @@ tW
 tW
 eQ
 aN
-Za
+pC
 YX
 YX
 aN
@@ -940,7 +843,7 @@ tW
 tW
 HG
 sz
-Za
+pC
 YX
 Wk
 PR
@@ -978,7 +881,7 @@ tW
 tW
 nq
 YX
-Ss
+EY
 nq
 da
 PR
@@ -1016,7 +919,7 @@ tW
 Sc
 uV
 YX
-Ss
+EY
 IZ
 PR
 PR
@@ -1054,7 +957,7 @@ tW
 nq
 YX
 YX
-Ss
+EY
 PR
 PR
 Xc
@@ -1168,7 +1071,7 @@ tW
 HK
 YX
 aN
-Ss
+EY
 PR
 PR
 Xc
@@ -1206,7 +1109,7 @@ tW
 cw
 YX
 YX
-Ss
+EY
 MZ
 PR
 PR
@@ -1244,7 +1147,7 @@ tW
 vE
 aN
 YX
-sM
+pC
 aN
 Dw
 mY
@@ -1282,13 +1185,13 @@ tW
 dt
 aN
 YX
-Fn
-Za
-Za
-Za
-Za
-Za
-PF
+pC
+pC
+pC
+pC
+pC
+pC
+pC
 PR
 PR
 PR
@@ -1326,7 +1229,7 @@ tW
 tW
 tW
 QL
-Ss
+EY
 zH
 zH
 zH
@@ -1554,7 +1457,7 @@ tW
 tW
 tW
 Lw
-sM
+pC
 AM
 Ct
 Xc
@@ -1592,7 +1495,7 @@ tW
 tW
 tW
 nq
-sM
+pC
 co
 Ct
 Xc
@@ -1630,7 +1533,7 @@ tW
 xk
 pT
 YX
-Ss
+EY
 bL
 Ct
 Xc
@@ -1667,8 +1570,8 @@ tW
 tW
 It
 LY
-Hj
-Ku
+pC
+EY
 Ct
 Ct
 Xc
@@ -1738,12 +1641,12 @@ tW
 tW
 tW
 Pw
-Hf
+EY
 fk
-Za
-Za
-Za
-Ku
+pC
+pC
+pC
+EY
 Ct
 Xc
 Xc

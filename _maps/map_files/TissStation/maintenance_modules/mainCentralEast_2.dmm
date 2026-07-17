@@ -8,14 +8,10 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "bX" = (
 /obj/effect/mapping_helpers/mail_sorting/service/kitchen,
-/obj/structure/disposalpipe/sorting/mail,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -24,9 +20,6 @@
 /area/station/maintenance/central/lesser)
 "cZ" = (
 /obj/effect/mapping_helpers/mail_sorting/service/hydroponics,
-/obj/structure/disposalpipe/sorting/mail{
-	dir = 8
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -34,9 +27,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "dz" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -44,9 +34,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "eq" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/duct,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -85,37 +72,11 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /obj/machinery/power/apc/auto_name/directional/east,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "hN" = (
 /obj/machinery/power/port_gen/pacman/pre_loaded,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"jA" = (
-/obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"jN" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"lm" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
@@ -132,13 +93,6 @@
 /area/station/maintenance/central/lesser)
 "lZ" = (
 /turf/open/floor/mineral/plastitanium,
-/area/station/maintenance/central/lesser)
-"nL" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "oU" = (
 /obj/structure/railing{
@@ -195,9 +149,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/sign/poster/contraband/random/directional/north,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
@@ -216,15 +167,6 @@
 "yu" = (
 /turf/open/floor/fake_snow,
 /area/station/maintenance/central/lesser)
-"yv" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "zO" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -241,17 +183,6 @@
 /turf/open/floor/mineral/titanium/white,
 /area/station/maintenance/central/lesser)
 "BD" = (
-/obj/structure/disposalpipe/junction/flip{
-	dir = 4
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"DS" = (
-/obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -259,9 +190,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "Fg" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -269,9 +197,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "HD" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -290,23 +215,7 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
-"Ka" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/structure/disposalpipe/junction{
-	dir = 8
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "Ki" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -336,34 +245,9 @@
 	},
 /turf/open/floor/mineral/titanium/white,
 /area/station/maintenance/central/lesser)
-"LX" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "Mf" = (
 /obj/structure/statue/snow/snowman,
 /turf/open/floor/fake_snow,
-/area/station/maintenance/central/lesser)
-"MY" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"NI" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "Ot" = (
 /obj/effect/decal/cleanable/dirt,
@@ -392,41 +276,14 @@
 "QM" = (
 /turf/closed/wall,
 /area/station/maintenance/central/lesser)
-"Sb" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "SI" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/spawner/random/engineering/atmospherics_portable,
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
-"Te" = (
-/obj/structure/disposalpipe/segment{
-	dir = 2
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
-"Tq" = (
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "Vz" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -435,9 +292,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 "VD" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -451,9 +305,6 @@
 /turf/closed/wall/ice,
 /area/station/maintenance/central/lesser)
 "Xx" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -468,14 +319,6 @@
 	dir = 8
 	},
 /turf/open/floor/mineral/titanium/white,
-/area/station/maintenance/central/lesser)
-"YO" = (
-/obj/structure/disposalpipe/junction/yjunction,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
 /area/station/maintenance/central/lesser)
 
 (1,1,1) = {"
@@ -660,7 +503,7 @@ VW
 VW
 VW
 VW
-jN
+dz
 dz
 VW
 "}
@@ -720,8 +563,8 @@ VW
 VW
 VW
 aK
-jN
-Te
+dz
+dz
 dz
 VW
 VW
@@ -875,7 +718,7 @@ VW
 VW
 VW
 Jq
-MY
+zO
 VW
 VW
 VW
@@ -1111,7 +954,7 @@ pK
 eq
 Qp
 SI
-LX
+BD
 Ot
 pN
 VW
@@ -1140,7 +983,7 @@ VW
 sS
 Fg
 bX
-DS
+BD
 BD
 xb
 hn
@@ -1167,16 +1010,16 @@ KP
 KP
 KP
 KP
-yv
+zO
 ho
-Ka
+dz
 QM
 XR
-YO
-Tq
-jA
-jA
-Sb
+dz
+hn
+ls
+ls
+ls
 un
 ls
 ls
@@ -1200,14 +1043,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 QM
 QM
 QM
@@ -1231,14 +1074,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 QM
 QE
 yu
@@ -1262,14 +1105,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 QM
 HM
 yu
@@ -1293,14 +1136,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 QM
 QE
 Mf
@@ -1324,14 +1167,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 VW
 VW
 VW
@@ -1362,7 +1205,7 @@ VW
 VW
 VW
 VW
-nL
+ls
 VW
 VW
 VW
@@ -1386,14 +1229,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 VW
 VW
 VW
@@ -1417,14 +1260,14 @@ VW
 VW
 VW
 VW
-lm
+dz
 VW
 VW
 VW
 VW
 VW
 VW
-nL
+ls
 VW
 VW
 VW
@@ -1455,7 +1298,7 @@ VW
 VW
 VW
 VW
-NI
+hn
 VW
 VW
 VW

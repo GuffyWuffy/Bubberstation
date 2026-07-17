@@ -8,9 +8,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "bZ" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/door/airlock/maintenance/glass,
 /obj/effect/mapping_helpers/airlock/abandoned,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -18,7 +15,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "cz" = (
-/obj/structure/disposalpipe/segment,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
@@ -33,13 +29,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "ei" = (
-/obj/effect/spawner/random/engineering/atmospherics_portable,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
-"fM" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/effect/spawner/random/engineering/atmospherics_portable,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
@@ -62,7 +51,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "lK" = (
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/effect/spawner/random/maintenance/no_decals/three,
 /turf/open/floor/plating,
@@ -71,28 +59,8 @@
 /obj/structure/falsewall/reinforced,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
-"ms" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
 "mN" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/sign/warning/docking/directional/south,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
-"po" = (
-/obj/structure/disposalpipe/junction{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
@@ -103,23 +71,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
-"pK" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
 "qG" = (
 /obj/structure/rack,
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/item/storage/toolbox/emergency,
 /obj/effect/spawner/random/maintenance,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "ri" = (
@@ -197,7 +153,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "wu" = (
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/effect/spawner/random/maintenance,
 /obj/effect/decal/cleanable/dirt,
@@ -215,9 +170,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "Bn" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
@@ -231,9 +183,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "CA" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/sign/warning/xeno_mining/directional/south,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -242,15 +191,6 @@
 /area/station/maintenance/department/science/central)
 "CB" = (
 /turf/closed/wall,
-/area/station/maintenance/department/science/central)
-"Ew" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "EK" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
@@ -263,13 +203,6 @@
 /area/template_noop)
 "FK" = (
 /obj/structure/reagent_dispensers/fueltank,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
-"HL" = (
-/obj/structure/disposalpipe/segment,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "Id" = (
@@ -286,9 +219,6 @@
 /turf/open/floor/plastic,
 /area/station/maintenance/department/science/central)
 "Jb" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 8
 	},
@@ -352,9 +282,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "PL" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/railing{
 	dir = 4
 	},
@@ -402,10 +329,6 @@
 /obj/structure/rack,
 /obj/effect/spawner/random/maintenance/no_decals/eight,
 /obj/item/pneumatic_cannon/ghetto,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/central)
-"UX" = (
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/central)
 "Vc" = (
@@ -799,14 +722,14 @@ FG
 FG
 FG
 FG
-UX
+xM
 cz
 cz
 cz
-HL
-HL
-HL
-Ew
+st
+st
+st
+st
 FG
 FG
 FG
@@ -832,7 +755,7 @@ CB
 CB
 sN
 Ie
-ms
+cz
 FG
 FG
 FG
@@ -858,7 +781,7 @@ FG
 FG
 CB
 CB
-pK
+st
 FG
 FG
 FG
@@ -884,7 +807,7 @@ FG
 FG
 CB
 ei
-pK
+st
 FG
 FG
 FG
@@ -910,7 +833,7 @@ FG
 FG
 CB
 xM
-pK
+st
 FG
 FG
 FG
@@ -936,7 +859,7 @@ FG
 FG
 CB
 xM
-pK
+st
 FG
 FG
 FG
@@ -962,10 +885,10 @@ FG
 FG
 ei
 JR
-po
+st
 wu
 lK
-fM
+ei
 CB
 FG
 FG
@@ -988,7 +911,7 @@ FG
 FG
 EK
 Zr
-pK
+st
 Zr
 Zr
 Zr
@@ -1040,7 +963,7 @@ FG
 FG
 Id
 xM
-ms
+cz
 hl
 II
 II
@@ -1092,7 +1015,7 @@ FG
 FG
 Id
 Id
-pK
+st
 ei
 Id
 FG
@@ -1118,7 +1041,7 @@ FG
 FG
 Id
 Id
-pK
+st
 Id
 Id
 FG
@@ -1144,7 +1067,7 @@ FG
 FG
 Id
 Id
-pK
+st
 Id
 Id
 FG
@@ -1170,7 +1093,7 @@ FG
 FG
 Id
 Id
-pK
+st
 Id
 Id
 FG
@@ -1196,7 +1119,7 @@ FG
 FG
 Id
 xM
-pK
+st
 FK
 Id
 FG
@@ -1222,7 +1145,7 @@ FG
 FG
 uu
 Zr
-pK
+st
 ri
 Id
 FG

@@ -2,18 +2,6 @@
 "a" = (
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"b" = (
-/obj/structure/transit_tube/crossing/horizontal,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"c" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "d" = (
 /obj/structure/transit_tube/horizontal,
 /turf/open/floor/plating,
@@ -22,9 +10,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/effect/spawner/random/structure/chair_maintenance{
 	dir = 4
 	},
@@ -43,15 +28,6 @@
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
-"l" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "n" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/engineering/material_cheap,
@@ -62,16 +38,10 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /obj/effect/spawner/random/trash/deluxe_garbage,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "q" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/effect/spawner/random/trash/moisture_trap,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -79,9 +49,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/spawner/random/trash/grime,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -89,31 +56,10 @@
 /obj/structure/sign/poster/contraband/random/directional/north,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
-"v" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"w" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "x" = (
 /turf/closed/mineral/random/snow,
 /area/icemoon/surface/outdoors/less_spawns)
 "z" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /obj/machinery/space_heater,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -138,9 +84,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -159,32 +102,9 @@
 /obj/effect/spawner/random/structure/closet_maintenance,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
-"I" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"J" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "K" = (
 /obj/effect/spawner/random/structure/closet_empty,
 /obj/effect/spawner/random/maintenance/three,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"L" = (
-/obj/structure/transit_tube/crossing/horizontal,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "M" = (
@@ -200,7 +120,6 @@
 /turf/closed/wall/ice,
 /area/icemoon/surface/outdoors/less_spawns)
 "P" = (
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/structure/girder,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -216,39 +135,14 @@
 "T" = (
 /turf/closed/wall,
 /area/station/maintenance/department/medical)
-"U" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "V" = (
 /obj/machinery/airalarm/directional/east,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"W" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/junction{
-	dir = 8
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"X" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "Y" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/modular_map_connector,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -309,8 +203,8 @@ N
 N
 N
 N
-U
-l
+M
+M
 f
 x
 x
@@ -340,7 +234,7 @@ N
 N
 N
 N
-v
+M
 H
 T
 x
@@ -402,7 +296,7 @@ N
 N
 N
 N
-v
+M
 T
 x
 x
@@ -433,7 +327,7 @@ N
 N
 N
 N
-v
+M
 C
 x
 x
@@ -464,7 +358,7 @@ N
 N
 N
 D
-v
+M
 T
 T
 x
@@ -495,7 +389,7 @@ N
 N
 N
 Y
-W
+M
 n
 T
 x
@@ -512,13 +406,13 @@ N
 N
 N
 N
-U
-c
-L
-c
-c
-L
-J
+M
+M
+G
+M
+M
+G
+M
 N
 N
 N
@@ -526,7 +420,7 @@ N
 N
 N
 s
-v
+M
 D
 T
 x
@@ -550,14 +444,14 @@ N
 N
 F
 o
-J
+M
 N
 N
 N
 N
 A
 D
-v
+M
 j
 T
 x
@@ -574,20 +468,20 @@ N
 N
 N
 N
-v
+M
 N
 N
 N
 N
 N
 N
-w
-c
-c
-c
-c
-c
-c
+M
+M
+M
+M
+M
+M
+M
 e
 N
 N
@@ -636,7 +530,7 @@ N
 N
 N
 N
-v
+M
 N
 N
 N
@@ -667,7 +561,7 @@ N
 N
 N
 M
-v
+M
 N
 N
 N
@@ -698,7 +592,7 @@ N
 N
 C
 M
-I
+D
 N
 N
 N
@@ -728,8 +622,8 @@ N
 N
 z
 P
-c
-X
+M
+D
 N
 N
 N
@@ -757,7 +651,7 @@ N
 N
 N
 M
-v
+M
 M
 M
 N
@@ -788,7 +682,7 @@ N
 N
 C
 M
-I
+D
 K
 N
 N
@@ -818,8 +712,8 @@ N
 N
 N
 B
-U
-X
+M
+D
 N
 N
 N
@@ -849,7 +743,7 @@ N
 N
 N
 d
-v
+M
 N
 N
 N
@@ -908,9 +802,9 @@ N
 N
 N
 N
-U
-c
-b
+M
+M
+F
 q
 N
 N
@@ -938,8 +832,8 @@ N
 (23,1,1) = {"
 N
 N
-U
-l
+M
+M
 N
 N
 N
@@ -968,8 +862,8 @@ N
 "}
 (24,1,1) = {"
 N
-U
-l
+M
+M
 N
 N
 N

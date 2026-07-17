@@ -10,13 +10,9 @@
 /obj/structure/window/spawner/directional/north{
 	pixel_y = 4
 	},
-/obj/structure/disposalpipe/trunk{
-	dir = 4
-	},
 /turf/open/floor/mineral/titanium/tiled/purple,
 /area/station/maintenance/disposal)
 "c" = (
-/obj/structure/disposalpipe/segment,
 /obj/effect/spawner/random/engineering/tracking_beacon,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/mineral/titanium/tiled/white,
@@ -74,7 +70,6 @@
 /turf/open/floor/mineral/plastitanium/red,
 /area/station/maintenance/disposal)
 "m" = (
-/obj/structure/disposalpipe/segment,
 /obj/machinery/camera/directional/west{
 	c_tag = "Cargo - Disposals";
 	network = list("ss13","cargo")
@@ -164,9 +159,6 @@
 /turf/open/floor/mineral/titanium/tiled/blue,
 /area/station/maintenance/disposal)
 "y" = (
-/obj/structure/disposalpipe/trunk{
-	dir = 1
-	},
 /obj/machinery/disposal/delivery_chute{
 	dir = 4
 	},
@@ -256,17 +248,11 @@
 /turf/open/floor/plating,
 /area/station/maintenance/disposal)
 "Q" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/structure/window/bronze/spawner/directional/south,
 /turf/open/floor/mineral/titanium/tiled/white,
 /area/station/maintenance/disposal)
 "R" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -279,9 +265,6 @@
 /turf/open/floor/mineral/titanium/tiled/white,
 /area/station/maintenance/disposal)
 "T" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -295,9 +278,6 @@
 /turf/open/floor/mineral/titanium/tiled/blue,
 /area/station/maintenance/disposal)
 "V" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /obj/machinery/power/apc/auto_name/directional/north,
 /obj/structure/cable,
 /turf/open/floor/mineral/titanium/tiled/white,
@@ -313,7 +293,6 @@
 /turf/open/floor/mineral/titanium/tiled/white,
 /area/station/maintenance/disposal)
 "Z" = (
-/obj/structure/disposalpipe/segment,
 /obj/machinery/light/directional/west,
 /obj/structure/window/bronze/spawner/directional/east,
 /turf/open/floor/mineral/titanium/tiled/white,

@@ -56,9 +56,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/power/apc/auto_name/directional/north,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
@@ -98,7 +95,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "hf" = (
@@ -107,25 +103,6 @@
 	},
 /obj/structure/railing,
 /obj/effect/spawner/random/entertainment/plushie_delux,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"ho" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/conveyor/auto,
-/obj/structure/railing{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"hA" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/spawner/random/trash/garbage{
-	spawn_scatter_radius = 1
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "id" = (
@@ -156,9 +133,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
@@ -168,12 +142,6 @@
 	},
 /obj/structure/railing{
 	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"nq" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
@@ -202,15 +170,6 @@
 /obj/machinery/conveyor/auto,
 /obj/structure/railing{
 	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"sq" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 10
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
@@ -257,15 +216,6 @@
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
-"vh" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
 "vO" = (
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
@@ -309,9 +259,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/modular_map_connector,
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
@@ -320,15 +267,6 @@
 	dir = 5
 	},
 /obj/structure/railing/corner,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"Fn" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "FF" = (
@@ -356,21 +294,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/effect/mapping_helpers/mail_sorting/science/ordnance,
-/obj/structure/disposalpipe/sorting/mail/flip{
-	dir = 8
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"Il" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/conveyor/auto{
-	dir = 1
-	},
-/obj/structure/railing{
-	dir = 8
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "Iz" = (
@@ -427,15 +350,6 @@
 /area/station/maintenance/department/science/south)
 "NW" = (
 /obj/structure/table/wood,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"OE" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "PG" = (
@@ -503,15 +417,6 @@
 	dir = 4
 	},
 /obj/effect/spawner/random/entertainment/plushie_delux,
-/turf/open/floor/plating,
-/area/station/maintenance/department/science/south)
-"Tf" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/science/south)
 "TE" = (
@@ -608,7 +513,7 @@ Uk
 Uk
 Uk
 LV
-Fn
+gL
 RZ
 RO
 vP
@@ -635,7 +540,7 @@ Uk
 Uk
 Uk
 Iz
-Fn
+gL
 Rt
 kU
 vP
@@ -662,7 +567,7 @@ Uk
 Uk
 Uk
 LV
-Fn
+gL
 Rt
 IU
 vP
@@ -689,7 +594,7 @@ Uk
 Uk
 Uk
 LV
-Fn
+gL
 hf
 IU
 oG
@@ -716,7 +621,7 @@ Uk
 Uk
 Uk
 oG
-Fn
+gL
 Rt
 IU
 JA
@@ -743,7 +648,7 @@ Uk
 Uk
 Uk
 LV
-Fn
+gL
 Rt
 IU
 dD
@@ -770,7 +675,7 @@ Uk
 Uk
 Uk
 NW
-Fn
+gL
 Wy
 IU
 LV
@@ -797,7 +702,7 @@ Uk
 Uk
 oG
 Nx
-Fn
+gL
 Rt
 kU
 FF
@@ -822,9 +727,9 @@ Uk
 Uk
 Uk
 Uk
-vh
 gL
-Tf
+gL
+gL
 YT
 IU
 vP
@@ -875,8 +780,8 @@ Uk
 LV
 LV
 Iz
-vh
-Tf
+gL
+gL
 lB
 rg
 vY
@@ -899,10 +804,10 @@ Uk
 Uk
 Uk
 Uk
-vh
 gL
 gL
-Tf
+gL
+gL
 Ej
 mD
 IU
@@ -952,8 +857,8 @@ Uk
 Uk
 Uk
 Uk
-vh
-Tf
+gL
+gL
 Rt
 rg
 vY
@@ -980,7 +885,7 @@ ed
 LV
 Iz
 HN
-nq
+LV
 Rt
 IU
 aN
@@ -1001,13 +906,13 @@ Uk
 "}
 (17,1,1) = {"
 Uk
-vh
 gL
 gL
 gL
 gL
-Tf
-hA
+gL
+gL
+Nx
 Rt
 IU
 PG
@@ -1028,13 +933,13 @@ Uk
 "}
 (18,1,1) = {"
 Uk
-Fn
+gL
 sv
 rA
 rA
 rA
 Sw
-ho
+rA
 Bm
 ba
 CR
@@ -1061,7 +966,7 @@ Nf
 Nf
 sI
 tb
-Il
+Nf
 Nf
 Nf
 Nf
@@ -1088,10 +993,10 @@ oH
 vP
 LV
 bw
-sq
 gL
 gL
-OE
+gL
+gL
 Rt
 QD
 vP
@@ -1118,7 +1023,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 vP
@@ -1145,7 +1050,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 LV
@@ -1172,7 +1077,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 RJ
 IU
 dD
@@ -1199,7 +1104,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 LV
@@ -1226,7 +1131,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Qe
 zV
 fK
@@ -1253,7 +1158,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 sz
 Nx
@@ -1280,7 +1185,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 dD
@@ -1307,7 +1212,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 vP
@@ -1334,7 +1239,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Wy
 IU
 vP
@@ -1358,10 +1263,10 @@ Uk
 Uk
 Uk
 Uk
-vh
 gL
 gL
-Tf
+gL
+gL
 Rt
 IU
 vP
@@ -1412,7 +1317,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 ot
 vY
@@ -1439,7 +1344,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 LV
@@ -1466,7 +1371,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 LV
@@ -1493,7 +1398,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Wp
 IU
 LV
@@ -1520,7 +1425,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 LV
@@ -1547,7 +1452,7 @@ Uk
 Uk
 Uk
 Uk
-Fn
+gL
 Rt
 IU
 Nx
@@ -1574,7 +1479,7 @@ Uk
 Uk
 Uk
 LV
-Fn
+gL
 Rt
 sz
 vP
@@ -1601,7 +1506,7 @@ Uk
 Uk
 gL
 gL
-Tf
+gL
 cQ
 jm
 vP

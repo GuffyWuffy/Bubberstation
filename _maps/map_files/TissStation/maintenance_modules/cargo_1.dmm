@@ -14,21 +14,6 @@
 /obj/effect/spawner/random/trash/grime,
 /turf/open/floor/glass/reinforced,
 /area/station/maintenance/department/cargo)
-"az" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"aM" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "bE" = (
 /obj/effect/spawner/random/trash/grime,
 /turf/open/floor/glass/reinforced,
@@ -48,16 +33,8 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/structure/steam_vent,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"cC" = (
-/obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "df" = (
@@ -86,12 +63,6 @@
 /obj/structure/window/reinforced/tinted/fulltile,
 /obj/structure/transit_tube,
 /turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"eJ" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/closed/wall,
 /area/station/maintenance/department/cargo)
 "eZ" = (
 /obj/structure/cable,
@@ -141,9 +112,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing{
 	dir = 8
@@ -154,7 +122,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/structure/railing/corner/end/flip{
 	dir = 8
 	},
@@ -162,15 +129,6 @@
 	dir = 4
 	},
 /obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"iQ" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "iT" = (
@@ -186,9 +144,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "kP" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/template_noop,
 /area/station/maintenance/disposal)
 "lS" = (
@@ -208,9 +163,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
@@ -219,9 +171,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/garbage{
 	spawn_scatter_radius = 1
@@ -237,9 +186,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/transit_tube/crossing,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
@@ -247,9 +193,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/garbage{
 	spawn_scatter_radius = 1
@@ -267,9 +210,6 @@
 /area/station/maintenance/department/cargo)
 "oM" = (
 /obj/effect/mapping_helpers/mail_sorting/supply/disposals,
-/obj/structure/disposalpipe/sorting/mail/flip{
-	dir = 8
-	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
@@ -290,16 +230,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"pt" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "pH" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/engineering/material_cheap,
@@ -309,28 +239,9 @@
 /obj/effect/spawner/random/structure/grille,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"qJ" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "ri" = (
 /obj/effect/spawner/random/structure/closet_empty,
 /obj/effect/spawner/random/maintenance/no_decals,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"ro" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/spawner/random/trash/garbage{
-	spawn_scatter_radius = 1
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "rR" = (
@@ -356,13 +267,6 @@
 "sV" = (
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"sW" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "tc" = (
 /obj/structure/transit_tube/crossing,
 /obj/effect/decal/cleanable/dirt,
@@ -375,50 +279,14 @@
 "tG" = (
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"tT" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "tZ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"up" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"uG" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "uQ" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"vU" = (
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "we" = (
@@ -438,26 +306,6 @@
 /obj/effect/spawner/random/maintenance/no_decals/three,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"xe" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"xr" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "xC" = (
 /obj/structure/transit_tube/crossing,
 /turf/open/floor/plating,
@@ -467,24 +315,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/modular_map_connector,
-/obj/structure/disposalpipe/segment,
 /obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"AL" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"AN" = (
-/obj/structure/transit_tube/crossing,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Be" = (
@@ -498,30 +329,6 @@
 "Cc" = (
 /obj/structure/transit_tube/crossing,
 /turf/open/floor/glass/reinforced,
-/area/station/maintenance/department/cargo)
-"Ck" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/closed/wall,
-/area/station/maintenance/department/cargo)
-"Cr" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"CF" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/obj/effect/spawner/random/structure/girder,
-/turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "CV" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -576,14 +383,6 @@
 /obj/effect/spawner/random/maintenance/no_decals/two,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"Hz" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "HF" = (
 /obj/structure/toilet{
 	dir = 8
@@ -604,26 +403,8 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"Jf" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"JL" = (
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "JN" = (
 /obj/effect/spawner/random/engineering/atmospherics_portable,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"KR" = (
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Mj" = (
@@ -647,25 +428,6 @@
 	dir = 1
 	},
 /obj/effect/landmark/generic_maintenance_landmark,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"Pd" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"Pt" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/junction/flip{
-	dir = 1
-	},
-/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Pv" = (
@@ -706,9 +468,6 @@
 /area/station/maintenance/department/cargo)
 "SI" = (
 /obj/structure/transit_tube/crossing,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -718,15 +477,6 @@
 "SR" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/structure/grille,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"Tb" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "TW" = (
@@ -757,9 +507,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/rack,
 /obj/item/toy/windup_toolbox,
@@ -771,32 +518,8 @@
 /obj/effect/spawner/random/structure/chair_maintenance,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"Vc" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"VR" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "WQ" = (
 /obj/effect/spawner/random/engineering/canister,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
-"XF" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "YH" = (
@@ -1328,9 +1051,9 @@ fm
 (15,1,1) = {"
 fm
 zH
-aM
+CV
 iK
-pt
+CV
 Bg
 sv
 sv
@@ -1404,8 +1127,8 @@ fm
 fm
 fm
 fm
-Vc
-Jf
+Bg
+mh
 CV
 SR
 pI
@@ -1442,7 +1165,7 @@ fm
 fm
 fm
 pI
-qJ
+Bg
 Sf
 Sf
 CV
@@ -1479,10 +1202,10 @@ fm
 fm
 fm
 lS
-Vc
-KR
-cC
-ro
+Bg
+Bg
+mh
+nW
 Bg
 mh
 oe
@@ -1519,10 +1242,10 @@ sv
 sv
 sv
 sv
-AL
-az
-aM
-iQ
+Sf
+Sf
+CV
+Sf
 UK
 MP
 MP
@@ -1559,7 +1282,7 @@ fm
 fm
 fm
 Bg
-up
+CV
 UK
 fm
 fm
@@ -1596,7 +1319,7 @@ fm
 fm
 fm
 pI
-up
+CV
 hW
 fm
 fm
@@ -1633,7 +1356,7 @@ fm
 fm
 fm
 pI
-up
+CV
 hW
 fm
 fm
@@ -1670,7 +1393,7 @@ fm
 fm
 fm
 nD
-up
+CV
 Bg
 fm
 fm
@@ -1707,7 +1430,7 @@ fm
 fm
 fm
 Bg
-up
+CV
 sv
 fm
 fm
@@ -1744,7 +1467,7 @@ fm
 fm
 fm
 Iq
-VR
+Sf
 sv
 fm
 fm
@@ -1784,7 +1507,7 @@ sv
 mU
 sv
 Bg
-Tb
+Pv
 Bg
 fm
 fm
@@ -1818,14 +1541,14 @@ fm
 Qx
 pH
 sv
-xe
-KR
-cC
-Pt
-cC
-Ck
+CV
+Bg
+mh
+Fb
+mh
 sv
-eJ
+sv
+sv
 sv
 sv
 sv
@@ -1861,8 +1584,8 @@ Bg
 Fb
 mh
 oM
-cC
-JL
+mh
+mh
 mh
 YH
 Bg
@@ -1891,21 +1614,21 @@ fm
 fm
 Gm
 Bg
-vU
-Hz
-sW
-sW
-Hz
-sW
-XF
+Bg
+Fb
+Pv
 Pv
 Fb
-xr
-Hz
-Hz
-Hz
-Hz
-uG
+Pv
+Pv
+Pv
+Fb
+Fb
+Fb
+Fb
+Fb
+Fb
+Fb
 pI
 UK
 MP
@@ -1928,7 +1651,7 @@ fm
 fm
 sv
 sv
-Tb
+Pv
 Fb
 mh
 mh
@@ -1937,12 +1660,12 @@ Bg
 Bg
 Bg
 Bg
-Tb
+Pv
 Bg
 pI
 Bg
 Bg
-tT
+Fb
 Bg
 UK
 MP
@@ -1965,7 +1688,7 @@ fm
 fm
 fm
 oe
-Tb
+Pv
 lS
 sv
 ag
@@ -2002,7 +1725,7 @@ fm
 fm
 fm
 pI
-Tb
+Pv
 fm
 fm
 fm
@@ -2039,7 +1762,7 @@ fm
 fm
 fm
 Pv
-Pd
+Pv
 fm
 fm
 fm
@@ -2053,7 +1776,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 mh
 UK
 MP
@@ -2127,7 +1850,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 mh
 UK
 MP
@@ -2164,7 +1887,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 uQ
 UK
 MP
@@ -2201,7 +1924,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 uQ
 UK
 MP
@@ -2310,9 +2033,9 @@ fm
 fm
 fm
 fm
-xr
-Hz
-XF
+Fb
+Fb
+Pv
 UK
 MP
 MP
@@ -2347,7 +2070,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 UK
 UK
 UK
@@ -2384,7 +2107,7 @@ fm
 fm
 fm
 fm
-tT
+Fb
 UK
 MP
 MP
@@ -2421,7 +2144,7 @@ au
 TW
 iT
 pc
-tT
+Fb
 UK
 UK
 UK
@@ -2494,7 +2217,7 @@ rR
 io
 Cc
 Qy
-AN
+xC
 nV
 xC
 xC
@@ -2531,7 +2254,7 @@ Rn
 sM
 sv
 sv
-CF
+dt
 Fb
 dt
 mh
@@ -2567,8 +2290,8 @@ fm
 Io
 bE
 sv
-xr
-Cr
+Fb
+Fb
 eZ
 sv
 mh
@@ -2604,7 +2327,7 @@ fm
 bE
 dM
 sv
-tT
+Fb
 Qc
 sv
 sv
@@ -2641,7 +2364,7 @@ fm
 sv
 sv
 sv
-tT
+Fb
 Be
 sv
 mh
@@ -2678,7 +2401,7 @@ fm
 Qx
 oZ
 mh
-tT
+Fb
 sv
 sv
 mh
@@ -2715,7 +2438,7 @@ Mj
 II
 II
 tZ
-tT
+Fb
 sv
 mh
 mh
@@ -2752,7 +2475,7 @@ fm
 EN
 sv
 sv
-tT
+Fb
 sv
 YH
 UK
@@ -2789,7 +2512,7 @@ fm
 mh
 Ee
 sv
-Tb
+Pv
 sv
 mh
 UK
@@ -2826,7 +2549,7 @@ fm
 fm
 HF
 sv
-Tb
+Pv
 sv
 mh
 UK
@@ -2863,7 +2586,7 @@ fm
 fm
 sv
 sv
-tT
+Fb
 mh
 mh
 UK
@@ -2900,7 +2623,7 @@ fm
 fm
 sv
 mu
-tT
+Fb
 sv
 UK
 UK
@@ -2937,7 +2660,7 @@ fm
 fm
 fm
 mh
-Tb
+Pv
 UK
 UK
 fm
@@ -2974,7 +2697,7 @@ fm
 fm
 fm
 UV
-Tb
+Pv
 UK
 fm
 fm

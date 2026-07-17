@@ -94,9 +94,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "eL" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -121,22 +118,10 @@
 	},
 /turf/template_noop,
 /area/station/commons/fitness/recreation/bowling)
-"gD" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/eighties,
-/area/station/commons/fitness/recreation/bowling)
 "gN" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/chair/stool/directional/east,
 /turf/open/floor/eighties,
 /area/station/commons/fitness/recreation/bowling)
@@ -148,9 +133,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/table/wood,
 /obj/item/reagent_containers/cup/glass/drinkingglass/filled/cola{
 	pixel_y = 6
@@ -177,27 +159,9 @@
 	},
 /turf/open/floor/wood/parquet,
 /area/station/commons/fitness/recreation/bowling)
-"iM" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/starboard/central)
 "iS" = (
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
-"ja" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/eighties,
-/area/station/commons/fitness/recreation/bowling)
 "je" = (
 /obj/structure/table,
 /turf/open/floor/eighties,
@@ -228,9 +192,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/table/wood,
 /obj/structure/railing{
 	dir = 4;
@@ -291,9 +252,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/railing{
 	dir = 4;
 	pixel_x = 2
@@ -347,9 +305,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/mapping_helpers/airlock/access/any/engineering/maintenance,
 /obj/effect/mapping_helpers/airlock/unres/delayed{
 	dir = 8
@@ -415,9 +370,6 @@
 /turf/open/floor/iron/smooth,
 /area/station/commons/fitness/recreation/bowling)
 "rf" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -447,16 +399,12 @@
 /turf/open/floor/eighties,
 /area/station/commons/fitness/recreation/bowling)
 "sd" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "si" = (
-/obj/structure/disposalpipe/segment,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -518,9 +466,6 @@
 /turf/open/floor/wood/large,
 /area/station/commons/fitness/recreation/bowling)
 "uT" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -531,9 +476,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
 /obj/structure/table,
 /obj/machinery/light/directional/east,
 /turf/open/floor/eighties,
@@ -713,9 +655,6 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "FT" = (
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -825,15 +764,6 @@
 /obj/machinery/light/dim/directional/north,
 /turf/open/floor/iron/smooth,
 /area/station/maintenance/starboard/central)
-"LZ" = (
-/obj/structure/disposalpipe/segment{
-	dir = 8
-	},
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/turf/open/floor/eighties,
-/area/station/commons/fitness/recreation/bowling)
 "Ma" = (
 /obj/machinery/conveyor/auto/inverted,
 /obj/machinery/light/red/directional/south,
@@ -898,9 +828,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/table/wood,
 /obj/effect/turf_decal/siding/wood,
 /obj/effect/turf_decal/siding/wood,
@@ -975,15 +902,6 @@
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
-"Qv" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/turf/open/floor/plating,
-/area/station/maintenance/starboard/central)
 "QB" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/spawner/random/trash/grille_or_waste,
@@ -1033,9 +951,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
@@ -1082,9 +997,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/turf_decal/siding/wood{
 	dir = 9
 	},
@@ -1145,9 +1057,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/turf_decal/siding/wood{
 	dir = 1
 	},
@@ -1155,9 +1064,6 @@
 /turf/open/floor/wood/large,
 /area/station/commons/fitness/recreation/bowling)
 "Zz" = (
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -1730,7 +1636,7 @@ lU
 lU
 lU
 lU
-Qv
+sd
 gQ
 iS
 Tw
@@ -1767,7 +1673,7 @@ lU
 lU
 lU
 lU
-iM
+OP
 OP
 OP
 bt
@@ -2211,7 +2117,7 @@ ta
 lU
 YT
 YT
-gD
+dD
 YT
 EZ
 tJ
@@ -2283,7 +2189,7 @@ lU
 lU
 JP
 dD
-ja
+dD
 si
 vy
 ta
@@ -2431,7 +2337,7 @@ lU
 lU
 lU
 GC
-LZ
+rf
 ta
 ta
 jN

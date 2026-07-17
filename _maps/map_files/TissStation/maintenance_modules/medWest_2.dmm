@@ -60,16 +60,6 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/iron/cafeteria,
 /area/station/maintenance/department/medical)
-"gr" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "hr" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4,
@@ -86,17 +76,11 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/sign/poster/contraband/random/directional/south,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "iW" = (
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -120,14 +104,6 @@
 "kI" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/maintenance,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"kW" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -176,7 +152,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/structure/sign/poster/contraband/random/directional/east,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -195,15 +170,6 @@
 /area/station/maintenance/department/medical)
 "vk" = (
 /obj/effect/spawner/structure/window/reinforced,
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"vu" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "vz" = (
@@ -225,13 +191,6 @@
 /turf/open/floor/iron/freezer{
 	initial_gas_mix = "o2=22;n2=82;water_vapor=50;TEMP=293.15"
 	},
-/area/station/maintenance/department/medical)
-"wZ" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
-/turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "yS" = (
 /obj/structure/sink/directional/west,
@@ -498,7 +457,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/modular_map_connector,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -884,17 +842,17 @@ JP
 (15,1,1) = {"
 JP
 ZT
-kW
-kW
-kW
+YD
+YD
+YD
 tN
-kW
-kW
-kW
-kW
-kW
-kW
-wZ
+YD
+YD
+YD
+YD
+YD
+YD
+zl
 iW
 JP
 JP
@@ -922,7 +880,7 @@ jy
 jy
 jy
 jy
-vu
+zl
 JP
 JP
 JP
@@ -949,7 +907,7 @@ JP
 JP
 JP
 JP
-gr
+YD
 JP
 JP
 JP
@@ -976,7 +934,7 @@ JP
 JP
 JP
 JP
-gr
+YD
 JP
 JP
 JP
@@ -1030,7 +988,7 @@ JP
 JP
 JP
 JP
-gr
+YD
 JP
 JP
 JP
@@ -1057,7 +1015,7 @@ JP
 JP
 JP
 JP
-gr
+YD
 JP
 JP
 JP
@@ -1084,7 +1042,7 @@ JP
 JP
 JP
 JP
-vu
+zl
 JP
 JP
 JP

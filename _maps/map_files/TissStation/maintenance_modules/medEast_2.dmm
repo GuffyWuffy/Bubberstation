@@ -10,7 +10,6 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "d" = (
@@ -44,15 +43,6 @@
 	},
 /turf/open/misc/asteroid,
 /area/icemoon/surface/outdoors/less_spawns)
-"l" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "m" = (
 /turf/open/floor/plating/snowed/smoothed/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
@@ -63,9 +53,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "q" = (
@@ -84,24 +71,6 @@
 	},
 /turf/open/misc/asteroid,
 /area/icemoon/surface/outdoors/less_spawns)
-"v" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
-"w" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 10
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "x" = (
 /turf/closed/mineral/random/snow,
 /area/icemoon/surface/outdoors/less_spawns)
@@ -126,7 +95,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
 "H" = (
@@ -138,15 +106,6 @@
 	},
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
-"J" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 5
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "N" = (
 /turf/template_noop,
 /area/template_noop)
@@ -157,32 +116,13 @@
 "T" = (
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
-"U" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "V" = (
 /turf/open/floor/plating/snowed/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
-"W" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/junction{
-	dir = 8
-	},
-/turf/open/floor/plating,
-/area/station/maintenance/department/medical)
 "Y" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/disposalpipe/segment,
 /obj/modular_map_connector,
 /turf/open/floor/plating,
 /area/station/maintenance/department/medical)
@@ -258,8 +198,8 @@ N
 N
 N
 N
-U
-l
+c
+c
 T
 x
 x
@@ -289,7 +229,7 @@ N
 N
 N
 N
-v
+c
 T
 T
 x
@@ -320,7 +260,7 @@ N
 N
 N
 N
-v
+c
 e
 x
 x
@@ -351,7 +291,7 @@ N
 N
 N
 N
-v
+c
 T
 x
 x
@@ -382,7 +322,7 @@ N
 N
 N
 N
-v
+c
 T
 x
 x
@@ -413,7 +353,7 @@ N
 N
 N
 T
-v
+c
 T
 T
 x
@@ -444,7 +384,7 @@ N
 N
 N
 Y
-W
+c
 T
 e
 x
@@ -461,13 +401,13 @@ N
 N
 N
 N
-U
-c
-G
 c
 c
 G
-J
+c
+c
+G
+c
 N
 N
 N
@@ -475,7 +415,7 @@ N
 N
 N
 q
-v
+c
 T
 T
 x
@@ -492,21 +432,21 @@ N
 N
 N
 x
-v
+c
 x
 n
 x
 x
 F
 o
-J
+c
 N
 N
 N
 N
 A
 e
-v
+c
 T
 e
 x
@@ -523,21 +463,21 @@ N
 N
 N
 x
-v
+c
 x
 a
 b
 x
 N
 x
-w
 c
 c
 c
 c
 c
 c
-l
+c
+c
 x
 x
 x
@@ -554,7 +494,7 @@ N
 N
 N
 x
-v
+c
 x
 a
 a
@@ -585,7 +525,7 @@ N
 N
 x
 x
-v
+c
 x
 a
 a
@@ -615,8 +555,8 @@ N
 N
 x
 x
-U
-l
+c
+c
 x
 a
 a
@@ -646,7 +586,7 @@ N
 x
 x
 e
-v
+c
 T
 x
 a
@@ -677,7 +617,7 @@ x
 x
 T
 T
-v
+c
 H
 r
 a
@@ -705,10 +645,10 @@ N
 N
 x
 x
-U
 c
 c
-l
+c
+c
 x
 x
 a
@@ -736,7 +676,7 @@ N
 N
 N
 O
-v
+c
 T
 T
 x
@@ -767,7 +707,7 @@ N
 N
 x
 B
-v
+c
 e
 x
 x
@@ -798,7 +738,7 @@ N
 x
 x
 d
-v
+c
 x
 x
 a
@@ -827,9 +767,9 @@ N
 N
 x
 x
-U
+c
 G
-l
+c
 r
 a
 a
@@ -857,8 +797,8 @@ N
 N
 x
 x
-U
-l
+c
+c
 F
 T
 x
@@ -887,8 +827,8 @@ N
 (23,1,1) = {"
 x
 x
-U
-l
+c
+c
 x
 N
 x
@@ -917,8 +857,8 @@ N
 "}
 (24,1,1) = {"
 x
-U
-l
+c
+c
 x
 x
 a
