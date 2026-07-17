@@ -16,7 +16,7 @@
 /obj/machinery/duct,
 /obj/structure/fluff/shower_drain,
 /turf/open/floor/iron/white/small,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "bj" = (
 /obj/effect/spawner/random/structure/shipping_container,
 /turf/open/floor/plating,
@@ -30,7 +30,7 @@
 	},
 /obj/structure/flora/grass/jungle/b/style_2,
 /turf/open/floor/grass,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "cc" = (
 /obj/structure/disposalpipe/segment{
 	dir = 6
@@ -50,10 +50,10 @@
 	},
 /obj/machinery/duct,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "cM" = (
 /turf/open/water/beach,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "da" = (
 /obj/machinery/light/directional/south,
 /obj/structure/closet/secure_closet/freezer/empty,
@@ -64,20 +64,20 @@
 /obj/item/food/meat/rawbacon,
 /obj/item/food/meat/rawbacon,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "dg" = (
 /obj/item/clothing/shoes/ducky_shoes{
 	name = "Quackins"
 	},
 /turf/open/water/beach,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "di" = (
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "fb" = (
 /obj/effect/landmark/start/hangover,
 /turf/open/water/beach,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "fJ" = (
 /obj/structure/disposalpipe/segment,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -149,7 +149,7 @@
 	dir = 4
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "hP" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -174,7 +174,7 @@
 	},
 /obj/machinery/light/directional/east,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "in" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -209,7 +209,7 @@
 /obj/structure/disposalpipe/segment,
 /obj/machinery/firealarm/directional/east,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "iR" = (
 /obj/effect/spawner/random/structure/table_or_rack,
 /obj/effect/spawner/random/maintenance/no_decals/three,
@@ -234,7 +234,7 @@
 	},
 /obj/structure/flora/grass/jungle/b/style_5,
 /turf/open/floor/grass,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "kN" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -250,7 +250,7 @@
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "lC" = (
 /obj/effect/spawner/random/structure/closet_maintenance,
 /obj/effect/spawner/random/maintenance/no_decals/three,
@@ -274,7 +274,7 @@
 	},
 /obj/machinery/light/directional/west,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "mM" = (
 /obj/structure/disposalpipe/segment{
 	dir = 6
@@ -293,7 +293,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/item/clothing/glasses/sunglasses/big,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "nD" = (
 /obj/structure/disposalpipe/segment{
 	dir = 6
@@ -322,7 +322,7 @@
 	},
 /obj/machinery/duct,
 /turf/open/floor/iron/white/small,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "og" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -356,7 +356,7 @@
 /obj/item/storage/cans/sixbeer,
 /obj/structure/closet/mini_fridge,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "pe" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -378,7 +378,7 @@
 /area/station/maintenance/department/crew_quarters/dorms)
 "pu" = (
 /turf/closed/wall,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "pw" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -395,7 +395,7 @@
 	pixel_x = 1
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "pR" = (
 /obj/effect/turf_decal/siding{
 	dir = 10
@@ -405,15 +405,15 @@
 	},
 /obj/structure/flora/grass/jungle/b/style_2,
 /turf/open/floor/grass,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "qk" = (
 /obj/item/toy/plush/shark,
 /turf/open/water/beach,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "qI" = (
 /obj/item/kirbyplants/organic/plant4,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "rd" = (
 /obj/effect/spawner/random/trash/moisture_trap,
 /turf/open/floor/plating,
@@ -437,7 +437,7 @@
 /obj/item/clothing/shoes/sandal,
 /obj/item/clothing/shoes/sandal,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "rU" = (
 /obj/structure/disposalpipe/segment{
 	dir = 5
@@ -486,7 +486,7 @@
 	dir = 8
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "wP" = (
 /obj/structure/flora/bush/large/style_3{
 	pixel_y = 0
@@ -494,14 +494,14 @@
 /obj/structure/flora/grass/jungle/b/style_4,
 /obj/effect/turf_decal/siding,
 /turf/open/floor/grass,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "xa" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/stripes/white/line{
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "yF" = (
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/dorms)
@@ -512,7 +512,7 @@
 /obj/structure/fluff/shower_drain,
 /obj/machinery/duct,
 /turf/open/floor/iron/white/small,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "zm" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -532,7 +532,7 @@
 	dir = 1
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "zW" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -578,7 +578,7 @@
 	pixel_y = -23
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Bn" = (
 /obj/machinery/duct,
 /obj/structure/sign/poster/contraband/rush_propaganda/directional/north,
@@ -586,7 +586,7 @@
 	dir = 4
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "BV" = (
 /obj/effect/spawner/random/trash/grime,
 /turf/open/floor/plating,
@@ -607,7 +607,7 @@
 	pixel_y = 1
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Cr" = (
 /obj/structure/disposalpipe/segment{
 	dir = 9
@@ -626,7 +626,7 @@
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Di" = (
 /obj/structure/fermenting_barrel{
 	anchored = 1
@@ -643,7 +643,7 @@
 	},
 /obj/effect/landmark/start/assistant,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Dv" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -652,7 +652,7 @@
 	dir = 4
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "DX" = (
 /obj/structure/disposalpipe/segment{
 	dir = 5
@@ -719,14 +719,14 @@
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "HO" = (
 /obj/machinery/computer/security/telescreen/entertainment/directional/south,
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
 	dir = 1
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "HV" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -771,7 +771,7 @@
 	},
 /obj/machinery/power/apc/auto_name/directional/east,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "KI" = (
 /turf/closed/wall,
 /area/station/maintenance/department/crew_quarters/bar)
@@ -782,11 +782,11 @@
 	},
 /obj/structure/fluff/shower_drain,
 /turf/open/floor/iron/white/small,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "LF" = (
 /obj/machinery/airalarm/directional/south,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "LT" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -811,7 +811,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Nf" = (
 /obj/structure/disposalpipe/segment,
 /obj/structure/cable,
@@ -835,7 +835,7 @@
 	},
 /obj/item/radio/intercom/directional/west,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "OB" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -847,10 +847,10 @@
 /obj/structure/sign/poster/contraband/double_rainbow/directional/north,
 /obj/structure/closet/preopen,
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "OD" = (
 /turf/open/water/deep_beach,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Pe" = (
 /obj/structure/disposalpipe/segment{
 	dir = 5
@@ -876,7 +876,7 @@
 	pixel_y = 11
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Qz" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -890,7 +890,7 @@
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "SJ" = (
 /obj/structure/table,
 /obj/item/clothing/suit/apron/chef,
@@ -903,7 +903,7 @@
 	pixel_x = 9
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Tx" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -943,7 +943,7 @@
 	pixel_x = 6
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Wi" = (
 /obj/structure/reagent_dispensers/plumbed{
 	name = "bar water reservoir"
@@ -962,7 +962,7 @@
 	id = "Pool"
 	},
 /turf/open/floor/plating,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "Xd" = (
 /obj/effect/spawner/random/structure/chair_flipped,
 /turf/open/floor/plating,
@@ -987,7 +987,7 @@
 /obj/machinery/light/floor,
 /obj/structure/fluff/shower_drain,
 /turf/open/floor/iron/white/small,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 "YH" = (
 /obj/structure/disposalpipe/sorting/mail{
 	dir = 1
@@ -1025,7 +1025,7 @@
 	color = "#0066FF"
 	},
 /turf/open/floor/plastic,
-/area/station/commons/fitness/recreation)
+/area/station/common/pool)
 
 (1,1,1) = {"
 Zc
@@ -1506,7 +1506,7 @@ Zc
 Zc
 Jx
 YP
-YP
+pu
 OB
 iP
 Nb
