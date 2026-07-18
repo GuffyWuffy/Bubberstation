@@ -160,16 +160,7 @@
 "Cq" = (
 /turf/closed/wall,
 /area/station/maintenance/central/lesser)
-"DU" = (
-/obj/effect/mapping_helpers/mail_sorting/service/hydroponics,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/central/lesser)
 "Er" = (
-/obj/effect/mapping_helpers/mail_sorting/service/kitchen,
 /obj/machinery/duct,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
@@ -354,7 +345,7 @@ uu
 uu
 uu
 uu
-DU
+Bm
 uu
 "}
 (4,1,1) = {"

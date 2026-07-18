@@ -74,13 +74,6 @@
 /obj/structure/cable,
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/dorms)
-"fP" = (
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/effect/mapping_helpers/mail_sorting/service/dormitories,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/dorms)
 "fV" = (
 /obj/structure/sign/poster/official/random/directional/north,
 /turf/open/floor/plating,
@@ -246,13 +239,6 @@
 /obj/item/clothing/glasses/sunglasses/big,
 /turf/open/floor/plastic,
 /area/station/common/pool)
-"nX" = (
-/obj/effect/mapping_helpers/mail_sorting/service/bar,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/structure/cable,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/bar)
 "oa" = (
 /obj/structure/curtain{
 	name = "Showers"
@@ -737,11 +723,6 @@
 /obj/structure/fluff/shower_drain,
 /turf/open/floor/iron/white/small,
 /area/station/common/pool)
-"YH" = (
-/obj/effect/mapping_helpers/mail_sorting/service/janitor_closet,
-/obj/effect/spawner/random/structure/grille,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/dorms)
 "YP" = (
 /turf/closed/wall,
 /area/station/maintenance/department/crew_quarters/dorms)
@@ -945,8 +926,8 @@ iR
 KI
 YP
 mM
-YH
-fP
+ac
+og
 pt
 YP
 aT
@@ -1045,7 +1026,7 @@ Zc
 Zc
 DX
 DX
-nX
+gd
 gd
 mq
 Zc

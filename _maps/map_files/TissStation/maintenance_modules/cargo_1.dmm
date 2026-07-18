@@ -208,11 +208,6 @@
 /obj/effect/spawner/random/maintenance/four,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
-"oM" = (
-/obj/effect/mapping_helpers/mail_sorting/supply/disposals,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plating,
-/area/station/maintenance/department/cargo)
 "oP" = (
 /obj/effect/decal/cleanable/greenglow,
 /obj/structure/closet/crate/slime,
@@ -1583,7 +1578,7 @@ RV
 Bg
 Fb
 mh
-oM
+mh
 mh
 mh
 mh

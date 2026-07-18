@@ -177,3 +177,8 @@
 	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
 	icon_state = "tiss"
 	name = "\improper Subway Tunnels"
+
+/area/station/command/eva/arrivals
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "tiss"
+	name = "\improper Arrivals EVA Storage"

@@ -9,13 +9,6 @@
 /obj/effect/spawner/random/trash/grille_or_waste,
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/bar)
-"cg" = (
-/obj/effect/mapping_helpers/mail_sorting/service/bar,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/bar)
 "cD" = (
 /obj/effect/spawner/random/trash/deluxe_garbage,
 /turf/open/floor/plating,
@@ -109,13 +102,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating,
 /area/station/commons/dorms)
-"kz" = (
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/effect/mapping_helpers/mail_sorting/service/dormitories,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/dorms)
 "kP" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
@@ -184,13 +170,6 @@
 /obj/effect/spawner/random/structure/steam_vent,
 /turf/open/floor/plating,
 /area/station/maintenance/department/crew_quarters/dorms)
-"ug" = (
-/obj/effect/mapping_helpers/mail_sorting/service/janitor_closet,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/structure/cable,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/turf/open/floor/plating,
-/area/station/maintenance/department/crew_quarters/bar)
 "vF" = (
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,
@@ -719,7 +698,7 @@ os
 os
 ab
 sL
-cg
+ab
 ab
 cU
 os
@@ -785,7 +764,7 @@ ab
 Va
 MN
 OV
-kz
+OV
 OV
 OV
 VW
@@ -838,7 +817,7 @@ os
 AP
 ab
 RL
-ug
+ab
 Hw
 MN
 Oz

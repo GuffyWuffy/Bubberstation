@@ -102,7 +102,7 @@
 /obj/item/pickaxe/rusted,
 /obj/structure/sign/warning/vacuum/directional/south,
 /obj/item/paper/crumpled/muddy{
-	desc = "A scrap of paper reading \"TO DO: Finish building out these maints.\" They clearly didn't."
+	desc = "A scrap of paper reading 'TO DO: Finish building out these maints.' They clearly didn't."
 	},
 /turf/open/misc/asteroid,
 /area/station/maintenance/department/medical)
