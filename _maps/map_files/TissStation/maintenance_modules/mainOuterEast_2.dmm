@@ -16,15 +16,8 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "aD" = (
-/obj/structure/steps/directional/east{
-	color = "#ffbd6b"
-	},
-/obj/structure/railing/corner/end/flip{
-	dir = 4;
-	color = "#0000AA"
-	},
 /turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "ba" = (
 /obj/structure/mineral_door/wood{
 	color = "#979797";
@@ -33,16 +26,12 @@
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
 "bf" = (
-/obj/structure/steps/directional/west{
-	color = "#ffbd6b"
-	},
-/obj/structure/railing/corner/end/flip{
-	dir = 8;
-	pixel_y = 7;
-	color = "#AA0000"
-	},
-/turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating/rust,
+/area/station/common/wrestling/arena)
 "bk" = (
 /obj/effect/mapping_helpers/airlock/access/all/engineering/maintenance,
 /obj/machinery/door/airlock/maintenance,
@@ -50,16 +39,11 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "bE" = (
-/obj/structure/railing{
-	color = "#0000AA";
-	dir = 1
-	},
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
-/turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/turf/open/floor/iron/sepia,
+/area/station/common/wrestling/arena)
 "bF" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#303030"
@@ -71,8 +55,14 @@
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
 "bP" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/structure/wrestling_corner{
+	dir = 8
+	},
 /turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "bV" = (
 /turf/closed/wall/mineral/wood,
 /area/station/maintenance/starboard/central)
@@ -81,20 +71,12 @@
 /area/icemoon/surface/outdoors/less_spawns)
 "ck" = (
 /obj/machinery/light/floor,
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
 /obj/effect/landmark/generic_maintenance_landmark,
-/turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/turf/open/floor/plating/heretic_rust,
+/area/station/common/wrestling/arena)
 "cL" = (
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "dk" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/structure/window/spawner/directional/south,
@@ -148,6 +130,15 @@
 	},
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
+"hG" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/structure/wrestling_corner{
+	dir = 1
+	},
+/turf/open/floor/iron/sepia,
+/area/station/common/wrestling/arena)
 "hH" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#e9e9e9"
@@ -159,17 +150,12 @@
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
 "hO" = (
-/obj/structure/railing{
-	color = "#0000AA";
-	dir = 5
-	},
 /obj/machinery/light/floor,
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
+/obj/structure/railing/wrestling{
+	dir = 4
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "im" = (
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
@@ -215,7 +201,7 @@
 	pixel_y = 15
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "jU" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -238,7 +224,7 @@
 "kI" = (
 /obj/machinery/light/dim/directional/south,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "kK" = (
 /obj/machinery/light/floor/broken{
 	color = "#2a2a2a"
@@ -272,7 +258,7 @@
 /area/station/maintenance/starboard/central)
 "lu" = (
 /turf/closed/wall/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "lD" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing,
@@ -289,12 +275,19 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "lR" = (
 /obj/structure/transit_tube/horizontal,
 /obj/structure/window/reinforced/tinted/fulltile,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
+"mx" = (
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/structure/cable,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/station/common/wrestling/arena)
 "mz" = (
 /obj/structure/sign/warning/vacuum/directional/north,
 /obj/structure/cable,
@@ -325,7 +318,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "of" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#e2e2e2"
@@ -349,8 +342,9 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
+/obj/structure/railing/wrestling,
 /turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "pl" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/generic_maintenance_landmark,
@@ -386,11 +380,11 @@
 /obj/item/clothing/under/shorts/red,
 /obj/item/clothing/mask/luchador/tecnicos,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "rB" = (
 /obj/structure/cable,
 /turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "rZ" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/structure/window/spawner/directional/south,
@@ -417,20 +411,11 @@
 /area/station/maintenance/starboard/central)
 "sT" = (
 /obj/machinery/light/floor,
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
-/obj/structure/railing{
-	color = "#AA0000";
-	pixel_y = 7
-	},
-/obj/structure/railing/corner/end{
-	dir = 1;
-	color = "#0000AA"
+/obj/structure/wrestling_corner{
+	dir = 4
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "tt" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/effect/spawner/random/structure/barricade/crude,
@@ -440,13 +425,13 @@
 /obj/item/clothing/under/costume/referee,
 /obj/structure/chair/stool/directional/north,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "tZ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "ug" = (
 /turf/closed/wall,
 /area/station/maintenance/starboard/central)
@@ -486,12 +471,12 @@
 /obj/item/cardboard_cutout,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "wZ" = (
 /obj/item/cardboard_cutout,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "xr" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -514,18 +499,10 @@
 /turf/open/floor/wood/large,
 /area/station/maintenance/starboard/central)
 "yK" = (
-/obj/structure/railing{
-	color = "#AA0000";
-	dir = 10;
-	pixel_y = 7
-	},
 /obj/machinery/light/floor,
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
+/obj/structure/wrestling_corner,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "zg" = (
 /turf/open/floor/wood/large{
 	color = "#353535"
@@ -537,7 +514,7 @@
 /obj/structure/cable,
 /obj/machinery/airalarm/directional/south,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "zD" = (
 /obj/structure/fake_stairs/wood/directional/west{
 	color = "#585858"
@@ -558,18 +535,13 @@
 	location = "Boxing Ring"
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Ap" = (
-/obj/structure/railing{
-	color = "#0000AA";
+/obj/structure/railing/wrestling{
 	dir = 4
 	},
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Bn" = (
 /turf/open/floor/wood/large{
 	color = "#b8b8b8"
@@ -587,7 +559,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/iron/sepia,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Cp" = (
 /turf/open/floor/wood/large{
 	color = "#525252"
@@ -630,7 +602,7 @@
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "FB" = (
 /obj/modular_map_connector,
 /turf/open/floor/plating,
@@ -638,7 +610,7 @@
 "FK" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "FW" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/external,
@@ -648,16 +620,11 @@
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
 "GK" = (
-/obj/structure/railing{
-	color = "#AA0000";
-	pixel_y = 7
-	},
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
+/obj/structure/railing/wrestling{
+	dir = 1
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "GR" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -671,7 +638,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "HK" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#f8f8f8"
@@ -779,7 +746,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Sc" = (
 /obj/structure/transit_tube/crossing,
 /turf/open/floor/plating,
@@ -810,7 +777,7 @@
 "Vd" = (
 /obj/machinery/light/dim/directional/north,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Wb" = (
 /obj/structure/closet/boxinggloves,
 /obj/item/clothing/head/helmet/thunderdome,
@@ -821,23 +788,14 @@
 /obj/item/clothing/mask/luchador/rudos,
 /obj/item/clothing/mask/luchador,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "Wd" = (
 /obj/machinery/light/floor,
-/obj/structure/railing{
-	color = "#0000AA";
-	dir = 1
-	},
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
-	},
-/obj/structure/railing/corner/end{
-	pixel_y = 7;
-	color = "#AA0000"
+/obj/structure/railing/wrestling{
+	dir = 8
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "WJ" = (
 /obj/structure/transit_tube/diagonal/crossing,
 /turf/open/floor/plating,
@@ -864,17 +822,11 @@
 	},
 /area/station/maintenance/starboard/central)
 "Yy" = (
-/obj/structure/railing{
-	color = "#AA0000";
-	dir = 8;
-	pixel_y = 7
-	},
-/obj/structure/platform/rusty{
-	name = "boxing ring";
-	desc = "A rusty, metal platform on which you can box. Watch for Tetanus."
+/obj/structure/railing/wrestling{
+	dir = 8
 	},
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "YT" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/effect/decal/cleanable/dirt,
@@ -903,13 +855,13 @@
 "ZK" = (
 /obj/item/cardboard_cutout,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "ZL" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/rust,
-/area/station/maintenance/starboard/central)
+/area/station/common/wrestling/arena)
 "ZZ" = (
 /obj/effect/spawner/random/structure/crate_abandoned,
 /turf/open/floor/plating,
@@ -1550,8 +1502,8 @@ oL
 oL
 oL
 oL
-GR
-Uj
+mx
+cL
 FK
 kI
 lu
@@ -1587,13 +1539,13 @@ oL
 oL
 oL
 lu
-fN
+bf
 lI
 wZ
 ZK
 ZK
-Uj
-Uj
+cL
+cL
 lu
 Uj
 ba
@@ -1624,13 +1576,13 @@ oL
 oL
 oL
 lu
-oZ
+bE
 aD
-bP
-bP
-bP
-bP
-bP
+aD
+aD
+aD
+aD
+aD
 ZK
 lu
 bV
@@ -1661,13 +1613,13 @@ oL
 oL
 oL
 lu
-oZ
+bP
 Wd
 Yy
 Yy
 Yy
 yK
-bP
+aD
 ZK
 lu
 bV
@@ -1699,13 +1651,13 @@ oL
 oL
 lu
 oZ
-bE
+cL
 cL
 cL
 cL
 GK
-bP
-Uj
+aD
+cL
 lu
 bV
 uh
@@ -1736,7 +1688,7 @@ oL
 oL
 lu
 oZ
-bE
+cL
 cL
 ck
 cL
@@ -1773,13 +1725,13 @@ oL
 lu
 lu
 oZ
-bE
+cL
 cL
 cL
 cL
 GK
-bP
-Uj
+aD
+cL
 lu
 bV
 xC
@@ -1808,14 +1760,14 @@ oL
 oL
 lu
 jO
-Uj
-oZ
+cL
+hG
 hO
 Ap
 Ap
 Ap
 sT
-bP
+aD
 ZK
 lu
 bV
@@ -1845,14 +1797,14 @@ oL
 oL
 lu
 jO
-Uj
-oZ
+cL
+bE
 rB
 rB
 rB
 rB
-bf
-bP
+aD
+aD
 ZK
 lu
 ug
@@ -1884,12 +1836,12 @@ lu
 Vd
 zM
 Sa
-Uj
+cL
 wZ
 ZK
 wB
-Uj
-Uj
+cL
+cL
 lu
 sL
 Sc
@@ -1922,10 +1874,10 @@ FK
 FK
 Sa
 nI
-Uj
+cL
 FK
 Fx
-Uj
+cL
 lu
 zL
 LE
@@ -1957,8 +1909,8 @@ lu
 lu
 FK
 FK
-fN
-Uj
+bf
+cL
 qV
 Wb
 lu
@@ -1991,11 +1943,11 @@ oL
 (30,1,1) = {"
 oL
 tZ
-Uj
-Uj
-Uj
+cL
+cL
+cL
 Sa
-Uj
+cL
 lu
 lu
 lu
@@ -2028,8 +1980,8 @@ oL
 (31,1,1) = {"
 oL
 Tm
-fN
-fN
+bf
+bf
 ZL
 zr
 lu
