@@ -12100,7 +12100,6 @@
 	dir = 1;
 	color = "#36d9ca"
 	},
-/obj/machinery/vending/dorms,
 /turf/open/floor/iron/cafeteria,
 /area/station/commons/dorms)
 "deT" = (
@@ -34569,9 +34568,7 @@
 /turf/open/floor/iron/white,
 /area/station/subway/central/south)
 "iRq" = (
-/obj/structure/stripper_pole{
-	pixel_y = 8
-	},
+/obj/structure/stripper_pole,
 /turf/open/floor/light,
 /area/station/common/night_club/back_stage)
 "iRw" = (
@@ -52273,7 +52270,6 @@
 "nuQ" = (
 /obj/structure/closet,
 /obj/effect/spawner/costume/cutewitch,
-/obj/item/lustwish_discount,
 /turf/open/floor/iron/smooth_large,
 /area/station/common/night_club/changing_room)
 "nuU" = (
