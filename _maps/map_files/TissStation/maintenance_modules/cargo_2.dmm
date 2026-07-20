@@ -1,11 +1,6 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "ad" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /obj/structure/bookcase/random,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
@@ -37,11 +32,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "cR" = (
@@ -158,11 +149,7 @@
 /turf/open/floor/carpet/royalblue,
 /area/station/maintenance/department/cargo)
 "hQ" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "hS" = (
@@ -208,12 +195,7 @@
 /turf/open/misc/asteroid/snow/icemoon,
 /area/icemoon/surface/outdoors/less_spawns)
 "ld" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /obj/structure/statue/drake,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
@@ -234,23 +216,14 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "lO" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /turf/open/floor/carpet/red,
 /area/station/maintenance/department/cargo)
 "mi" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /turf/open/floor/carpet/red,
 /area/station/maintenance/department/cargo)
 "mA" = (
@@ -308,11 +281,7 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "pB" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "ql" = (
@@ -321,12 +290,7 @@
 /area/station/maintenance/department/cargo)
 "re" = (
 /obj/structure/statue/dragonman,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/department/cargo)
 "su" = (
@@ -348,12 +312,7 @@
 /area/station/maintenance/department/cargo)
 "to" = (
 /obj/structure/statue/dragonman,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /turf/open/floor/mineral/gold,
 /area/station/maintenance/department/cargo)
 "tC" = (
@@ -367,11 +326,7 @@
 /obj/structure/fake_stairs/stone{
 	dir = 8
 	},
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "uo" = (
@@ -443,12 +398,7 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "xU" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "xX" = (
@@ -485,12 +435,7 @@
 /turf/open/floor/carpet/royalblue,
 /area/station/maintenance/department/cargo)
 "BA" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /obj/effect/spawner/random/structure/crate,
 /obj/effect/spawner/random/maintenance/no_decals/two,
 /turf/open/floor/stone,
@@ -510,11 +455,7 @@
 /turf/open/floor/carpet/red,
 /area/station/maintenance/department/cargo)
 "Db" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /turf/open/floor/carpet/red,
 /area/station/maintenance/department/cargo)
 "Dm" = (
@@ -538,12 +479,7 @@
 /turf/open/floor/carpet/royalblue,
 /area/station/maintenance/department/cargo)
 "Du" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "DD" = (
@@ -574,11 +510,7 @@
 /turf/closed/wall/mineral/stone,
 /area/station/maintenance/department/cargo)
 "Gx" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /obj/structure/fake_stairs/stone{
 	dir = 8
 	},
@@ -625,12 +557,7 @@
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "JB" = (
@@ -652,11 +579,7 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Kv" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /obj/structure/fake_stairs/stone{
 	dir = 8
 	},
@@ -678,12 +601,7 @@
 /area/station/maintenance/department/cargo)
 "Lp" = (
 /obj/structure/statue/dragonman,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/department/cargo)
 "Lq" = (
@@ -736,11 +654,7 @@
 /obj/structure/fake_stairs/stone{
 	dir = 8
 	},
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "Pw" = (
@@ -749,11 +663,7 @@
 /turf/open/floor/carpet/red,
 /area/station/maintenance/department/cargo)
 "PA" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /obj/structure/statue/dragonman,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
@@ -789,21 +699,12 @@
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
 "Rw" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /obj/structure/statue/dragonman,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "RM" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /obj/structure/fermenting_barrel,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
@@ -823,11 +724,7 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "Tb" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = 22;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /obj/effect/spawner/random/structure/chair_comfy{
 	dir = 8
 	},
@@ -846,12 +743,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = 24;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /obj/structure/statue/dragonman,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
@@ -880,12 +772,7 @@
 /area/station/maintenance/department/cargo)
 "Wf" = (
 /obj/structure/statue/dragonman,
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_x = -15;
-	pixel_y = 5;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/west,
 /turf/open/floor/mineral/gold,
 /area/station/maintenance/department/cargo)
 "Wt" = (
@@ -916,11 +803,7 @@
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "Xo" = (
-/obj/item/flashlight/flare/torch/everburning{
-	pixel_y = -12;
-	light_range = 8;
-	light_power = 1.5
-	},
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /obj/effect/spawner/random/structure/chair_comfy{
 	dir = 8
 	},
