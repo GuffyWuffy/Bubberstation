@@ -35,6 +35,15 @@
 /obj/effect/landmark/navigate_destination,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/station/maintenance/disposal)
+"g" = (
+/obj/machinery/conveyor{
+	id = "cargolower"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/tiled/blue,
+/area/station/maintenance/disposal)
 "h" = (
 /obj/machinery/mass_driver/trash{
 	dir = 8
@@ -156,6 +165,9 @@
 /obj/structure/window/spawner/directional/north{
 	pixel_y = 4
 	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
 /turf/open/floor/mineral/titanium/tiled/blue,
 /area/station/maintenance/disposal)
 "y" = (
@@ -171,6 +183,7 @@
 /obj/machinery/door/window/right/directional/east{
 	pixel_x = 4
 	},
+/obj/structure/disposalpipe/trunk,
 /turf/open/floor/mineral/titanium/tiled/purple,
 /area/station/maintenance/disposal)
 "z" = (
@@ -209,6 +222,16 @@
 /obj/effect/spawner/random/trash/food_packaging,
 /turf/open/floor/mineral/plastitanium/red,
 /area/station/maintenance/disposal)
+"F" = (
+/obj/machinery/conveyor{
+	id = "cargolower";
+	dir = 8
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 4
+	},
+/turf/open/floor/mineral/titanium/tiled/blue,
+/area/station/maintenance/disposal)
 "G" = (
 /obj/machinery/conveyor_switch/oneway{
 	id = "cargolower"
@@ -221,6 +244,19 @@
 	dir = 10
 	},
 /obj/machinery/light/directional/south,
+/turf/open/floor/mineral/titanium/tiled/blue,
+/area/station/maintenance/disposal)
+"I" = (
+/obj/machinery/conveyor{
+	id = "cargolower";
+	dir = 8
+	},
+/obj/structure/window/spawner/directional/north{
+	pixel_y = 4
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 5
+	},
 /turf/open/floor/mineral/titanium/tiled/blue,
 /area/station/maintenance/disposal)
 "J" = (
@@ -341,7 +377,7 @@ Z
 m
 c
 y
-u
+I
 B
 L
 a
@@ -353,7 +389,7 @@ l
 A
 k
 J
-q
+F
 v
 q
 a
@@ -365,7 +401,7 @@ d
 D
 k
 p
-q
+F
 U
 q
 a
@@ -389,7 +425,7 @@ f
 a
 Y
 b
-r
+g
 r
 H
 a
