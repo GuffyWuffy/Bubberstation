@@ -74,6 +74,10 @@
 /obj/structure/guillotine,
 /turf/open/floor/plating,
 /area/station/maintenance/department/cargo)
+"fE" = (
+/obj/structure/wall_torch/spawns_lit,
+/turf/open/floor/carpet/red,
+/area/station/maintenance/department/cargo)
 "fF" = (
 /obj/structure/table/wood,
 /obj/item/reagent_containers/spray/syndicate{
@@ -126,6 +130,7 @@
 /area/station/maintenance/department/cargo)
 "gQ" = (
 /obj/effect/spawner/random/decoration/showcase,
+/obj/structure/wall_torch/spawns_lit/directional/east,
 /turf/open/floor/stone,
 /area/station/maintenance/department/cargo)
 "hE" = (
@@ -567,6 +572,7 @@
 /area/station/maintenance/department/cargo)
 "JX" = (
 /obj/structure/statue/dragonman,
+/obj/structure/wall_torch/spawns_lit/directional/south,
 /turf/open/floor/mineral/silver,
 /area/station/maintenance/department/cargo)
 "Kb" = (
@@ -716,6 +722,7 @@
 /area/station/maintenance/department/cargo)
 "SD" = (
 /obj/structure/statue/dragonman,
+/obj/structure/wall_torch/spawns_lit/directional/north,
 /turf/open/floor/mineral/gold,
 /area/station/maintenance/department/cargo)
 "SE" = (
@@ -769,6 +776,10 @@
 	color = "#ff1b0f"
 	},
 /turf/open/floor/stone,
+/area/station/maintenance/department/cargo)
+"Vd" = (
+/obj/structure/wall_torch/spawns_lit,
+/turf/open/floor/carpet/royalblue,
 /area/station/maintenance/department/cargo)
 "Wf" = (
 /obj/structure/statue/dragonman,
@@ -1018,7 +1029,7 @@ ld
 xv
 cs
 bu
-TL
+fE
 Wt
 cs
 RO
@@ -2696,7 +2707,7 @@ tc
 Ir
 Ir
 Ir
-Ir
+Vd
 Ir
 Ir
 cs
