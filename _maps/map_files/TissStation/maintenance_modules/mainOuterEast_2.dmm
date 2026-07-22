@@ -17,7 +17,7 @@
 /area/station/maintenance/starboard/central)
 "aD" = (
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "ba" = (
 /obj/structure/mineral_door/wood{
 	color = "#979797";
@@ -31,7 +31,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "bk" = (
 /obj/effect/mapping_helpers/airlock/access/all/engineering/maintenance,
 /obj/machinery/door/airlock/maintenance,
@@ -43,7 +43,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "bF" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#303030"
@@ -62,7 +62,7 @@
 	dir = 8
 	},
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "bV" = (
 /turf/closed/wall/mineral/wood,
 /area/station/maintenance/starboard/central)
@@ -73,10 +73,10 @@
 /obj/machinery/light/floor,
 /obj/effect/landmark/generic_maintenance_landmark,
 /turf/open/floor/plating/heretic_rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "cL" = (
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "dk" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/structure/window/spawner/directional/south,
@@ -138,7 +138,7 @@
 	dir = 1
 	},
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "hH" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#e9e9e9"
@@ -155,7 +155,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "im" = (
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/central)
@@ -201,7 +201,7 @@
 	pixel_y = 15
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "jU" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -224,7 +224,7 @@
 "kI" = (
 /obj/machinery/light/dim/directional/south,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "kK" = (
 /obj/machinery/light/floor/broken{
 	color = "#2a2a2a"
@@ -258,7 +258,7 @@
 /area/station/maintenance/starboard/central)
 "lu" = (
 /turf/closed/wall/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "lD" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/structure/railing,
@@ -275,7 +275,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "lR" = (
 /obj/structure/transit_tube/horizontal,
 /obj/structure/window/reinforced/tinted/fulltile,
@@ -287,7 +287,7 @@
 /obj/structure/cable,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "mz" = (
 /obj/structure/sign/warning/vacuum/directional/north,
 /obj/structure/cable,
@@ -318,7 +318,7 @@
 	},
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "of" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#e2e2e2"
@@ -344,7 +344,7 @@
 /obj/structure/cable,
 /obj/structure/railing/wrestling,
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "pl" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/landmark/generic_maintenance_landmark,
@@ -380,11 +380,11 @@
 /obj/item/clothing/under/shorts/red,
 /obj/item/clothing/mask/luchador/tecnicos,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "rB" = (
 /obj/structure/cable,
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "rZ" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/structure/window/spawner/directional/south,
@@ -415,7 +415,7 @@
 	dir = 4
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "tt" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/effect/spawner/random/structure/barricade/crude,
@@ -425,13 +425,13 @@
 /obj/item/clothing/under/costume/referee,
 /obj/structure/chair/stool/directional/north,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "tZ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "ug" = (
 /turf/closed/wall,
 /area/station/maintenance/starboard/central)
@@ -471,12 +471,12 @@
 /obj/item/cardboard_cutout,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "wZ" = (
 /obj/item/cardboard_cutout,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "xr" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -502,7 +502,7 @@
 /obj/machinery/light/floor,
 /obj/structure/wrestling_corner,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "zg" = (
 /turf/open/floor/wood/large{
 	color = "#353535"
@@ -514,7 +514,7 @@
 /obj/structure/cable,
 /obj/machinery/airalarm/directional/south,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "zD" = (
 /obj/structure/fake_stairs/wood/directional/west{
 	color = "#585858"
@@ -535,13 +535,13 @@
 	location = "Boxing Ring"
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Ap" = (
 /obj/structure/railing/wrestling{
 	dir = 4
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Bn" = (
 /turf/open/floor/wood/large{
 	color = "#b8b8b8"
@@ -559,7 +559,7 @@
 	pixel_y = 8
 	},
 /turf/open/floor/iron/sepia,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Cp" = (
 /turf/open/floor/wood/large{
 	color = "#525252"
@@ -602,7 +602,7 @@
 /obj/machinery/power/apc/auto_name/directional/east,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "FB" = (
 /obj/modular_map_connector,
 /turf/open/floor/plating,
@@ -610,7 +610,7 @@
 "FK" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "FW" = (
 /obj/machinery/door/airlock/maintenance,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/external,
@@ -624,7 +624,7 @@
 	dir = 1
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "GR" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -638,7 +638,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "HK" = (
 /obj/structure/fake_stairs/wood/directional/north{
 	color = "#f8f8f8"
@@ -746,7 +746,7 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/structure/cable,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Sc" = (
 /obj/structure/transit_tube/crossing,
 /turf/open/floor/plating,
@@ -777,7 +777,7 @@
 "Vd" = (
 /obj/machinery/light/dim/directional/north,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Wb" = (
 /obj/structure/closet/boxinggloves,
 /obj/item/clothing/head/helmet/thunderdome,
@@ -788,14 +788,14 @@
 /obj/item/clothing/mask/luchador/rudos,
 /obj/item/clothing/mask/luchador,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "Wd" = (
 /obj/machinery/light/floor,
 /obj/structure/railing/wrestling{
 	dir = 8
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "WJ" = (
 /obj/structure/transit_tube/diagonal/crossing,
 /turf/open/floor/plating,
@@ -826,7 +826,7 @@
 	dir = 8
 	},
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "YT" = (
 /obj/effect/spawner/random/structure/grille,
 /obj/effect/decal/cleanable/dirt,
@@ -855,13 +855,13 @@
 "ZK" = (
 /obj/item/cardboard_cutout,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "ZL" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/plating/rust,
-/area/station/common/wrestling/arena)
+/area/station/maintenance/abandon_wrestle)
 "ZZ" = (
 /obj/effect/spawner/random/structure/crate_abandoned,
 /turf/open/floor/plating,

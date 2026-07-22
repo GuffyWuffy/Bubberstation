@@ -122,6 +122,11 @@
 		'modular_zubbers/sound/ambiance/rags.ogg',
 		)
 
+/area/station/common/smokes
+	icon = 'modular_zubbers/icons/areas/areas_station.dmi'
+	icon_state = "tiss"
+	name = "\improper Gas-N-Smoke Store"
+
 /// tram subways
 
 /area/station/subway/cargo/west
